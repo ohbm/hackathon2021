@@ -1,0 +1,4 @@
+-
+  group: "Main organizer"
+  elements:
+    - {name: "OSSIG", description: "OHBM open-science special interest group", link: "https://ossig.netlify.com/", imageUrl: "ossig_logo.svg"}

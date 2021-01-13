@@ -1,0 +1,262 @@
+# Plugins
+gems:
+- jekyll-sitemap
+- jekyll-redirect-from
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['README.md', 'LICENSE.txt', 'CNAME', vendor]
+
+
+# Site Settings
+title: "OHBM BrainHack 2020"
+email: ""
+description: "OHBM Brainhack June 16-18th, 2020. Organized by the OHBM Open Science SIG."
+baseurl: "/hackathon2020"
+url: "https://ohbm.github.io/hackathon2020"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
+
+# Organizer Info
+organizerName: "OHBM Open Science SIG"
+organizerAlternateName: ""
+organizerDescription: ""
+organizerEmail: ""
+organizerLogo: ""
+organizerLink: ""
+
+# Head
+metaKeywords: "brainhack, neuroscience, AI"
+twitterAccount: "@OhbmOpen"
+socialImageSrcGooglePlus: ""
+socialImageSrcTwitter: ""
+socialImageSrcFacebook: ""
+
+# Documents
+c4pUrl: ""
+c4sponsorsUrl: ""
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ # - {permalink: "/#about/", text: "About"}
+ - {permalink: "/schedule", text: "Schedule"}
+ - {permalink: "/hacktrack", text: "HackTrack"}
+ - {permalink: "/traintrack/", text: "TrainTrack"}
+ - {permalink: "/logistics", text: "Logistics"}
+ - {permalink: "/FAQ", text: "FAQ"}
+ - {permalink: "/coc", text: "CoC"}
+ - {permalink: "/team", text: "Team"}
+ - {permalink: "/sponsors", text: "Sponsors"}
+ - {permalink: "/contact", text: "Contact"}
+ - {permalink: "/venue", text: "Venue"}
+
+bottomNavigationLinks:
+
+rightNavigationButtons:
+
+# Hero Block
+heroImage: "mtl_photo.jpg"
+heroTitle: "OHBM Brainhack <typeout>"
+eventDate: "June 16-18th 2020"
+hubStreamingInfo: ""
+typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
+typeoutFallback: ""
+heroButtons:
+   - {link: "https://ohbm.github.io/hackathon2020/hacktrack/", text: "Join a project"}
+   - {link: "https://neurostars.org/t/ohbm-brainhack-2020/6192/8?u=remi-gau", text: "Want to help?"}
+
+
+
+# About Block
+aboutTitle: "About OHBM BrainHack 2020"
+aboutBlock:
+ - {title: "Share Ideas", image: "undraw/undraw_share_link_qtxe.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
+ - {title: "Build Projects", image: "undraw/undraw_code_typing_7jnv.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
+ - {title: "Be social", image: "undraw/undraw_Connecting_Teams_8ntu.png", text: "Get to meet and socialize with people from all over the world!"}
+ - {title: "Learn Tools", image: "undraw/undraw_book_reading_kx9s.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
+
+# Guests block
+# guestTitle: "Unconference talks"
+# guestBlock:
+#  - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
+
+# Guests2 block
+# guest2Title: "Ignite talks"
+# guest2Block:
+#  - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
+
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Dept. of Neuroscience and Biomedical Engineering"
+eventLocationLink: "http://nbe.aalto.fi/"
+eventStreetAddress: "Rakentajanaukio 2"
+eventAddressLocality: "Espoo"
+eventAddressLocalityRegion: "Uusimaa"
+eventPostalCode: "02150"
+eventAddressCountry: "Finland"
+eventStartTime: "2018-05-02T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2018-05-02T23:59"
+eventPlaceCoordinates: "60.1877229, 24.8294535"
+mapCenterCoordinates: "60.1877229, 24.8294535"
+mapMobileCenterCoordinates: "60.1877229, 24.8294535"
+
+# Venue Block
+venueBlockTitle: "The third planet from the Sun"
+venueBigImage: "city_lights_namerica_8k_cropped.jpg"
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "OHBMHackathon"
+twitterFeed: "https://twitter.com/search?q=%23OHBMHackathon&src=typed_query"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/ohbmopen", icon: "twitter"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://ossig.netlify.com/", text: "OHBM Open Science SIG"}
+   - {link: "https://www.brainhack.org/", text: "Brainhack global"}
+ -
+  title: "Organizers and contacts"
+  links:
+   - {link: "https://twitter.com/LevitisLiza", text: "Liza Levitis (Brainhack Co-chair)"}
+   - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Brainhack Co-chair)"}
+   - {link: "mailto:ossig2019@inria.fr", text: "ossig2019@inria.fr."}
+ -
+  title: "Resources"
+  links:
+   - {link: "/hackathon2020/coc", text: "Code of Conduct"}
+   - {link: "/hackathon2020/FAQ/", text: "FAQ"}
+   - {link: "/hackathon2020/contact/", text: "Contact"}
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+# About Block
+aboutBrainHack:
+
+# Team Block
+teamBlockTitle: "About the Open-Science Special Interest Group"
+aboutUs:
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Montreal"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'The Pierre Elliot Trudeau (YUL) airport is about 30 minutes driving from the Old Port.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+
+
+# Hackathon
+hackathonTitle: "HackTrack"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "HackTrack projects"
+hackathonRows:
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

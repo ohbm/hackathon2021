@@ -1,0 +1,80 @@
+<!-- Begin Schedule Section -->
+{% assign schedule = site.data.schedules[page.schedule] %}
+<section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
+    <div class="content-wrapper" style="margin: 0 1em;">
+        <div style="margin:0 auto;text-align:left;max-width:450px;" class="tz-selector">
+          <label for=timezone>Schedule times are currently displayed in the following time zone:</label>
+          <select id="timezone" data-time-selector="#schedule .schedule-table time" data-base-tz="{{ schedule[0].tz }}"></select>
+        </div>
+
+        {% for day in schedule %}
+        <div class="schedule-table">
+            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <div class="timeslot track-header stick-header">
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for track in day.tracks %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                        <h5 class="track-header-title">{{ track.title }}</h5>
+                    </div>
+                    {% endfor %}
+                    <div class="track-header-slot col-xs-12 visible-xs">
+                        <h5 class="slot-detail track-header-title"></h5>
+                    </div>
+                </div>
+            </div>
+            {% for timeslot in day.timeslots %}
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="timeslot-label">
+                    <time class="start-time" data-value="{{ day.date }} {{ timeslot.startTime }}" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                        {% assign startTime = timeslot.startTime | split: ":" %}
+                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                    </time>
+                      <time class="end-time" data-value="{{ day.date }} {{ timeslot.endTime }}" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                    </time>
+                </div>
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for slot in timeslot.sessionIds %}
+                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                        {% assign slotIndex = forloop.index0 %}
+                        {% if slot != 404 %}
+                            {% for session in site.data.sessions %}
+                                {% if slot == session.id %}
+                                    {% if session.type == 'traintrack' %}
+                                        <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    {% else %}
+                                        <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}">
+                                    {% endif %}
+                                            <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                            <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                                <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                                <span class="slot-language">{{session.language | upcase}}</span>
+                                                {% if session.description != null %}
+                                                    <p class="service-description">{{ session.description }}</p>
+                                                {% endif %}
+                                                <ul class="slot-speakers">
+                                                    {% for session_speaker in session.speakers %}
+                                                        {% assign speaker = site.data.speakers[session_speaker] %}
+                                                        <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: speaker.thumbnailUrl }})"></div>
+                                                            <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}</p>
+                                                        </li>
+                                                    {% endfor %}
+                                                </ul>
+                                            </div>
+                                        </div>
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                            <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Schedule Section -->

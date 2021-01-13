@@ -1,0 +1,873 @@
+# -------------------------------------------------------------------------------------------------#
+#                                      HUB ASIA AND PACIFIC
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Hub Asia & Pacific"
+  description:
+  team:
+    -
+      id: 0
+      name: "Angela"
+      surname: "Tam"
+      title: "Brainhack co-host"
+      location: "Singapore"
+      thumbnailUrl: angela_tam.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/angelatamtweets"}
+        - {name: "github", link: "https://github.com/angela-tam/"}
+    -
+      id: 1
+      name: "Chao-Gan"
+      surname: "Yan"
+      title: "Brainhack co-host"
+      location: "Beijing, China"
+      thumbnailUrl: chao_gan.jpg
+      team: true
+      social:
+    -
+      id: 2
+      name: "Kelly"
+      surname: "Garner"
+      title: "Hub manager"
+      location: "Brisbane, Australia"
+      thumbnailUrl: kelly_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/garner_theory"}
+    -
+      id: 3
+      name: "Xiao"
+      surname: "Chen"
+      title: "Hub manager"
+      location: "Beijing, China"
+      thumbnailUrl: Xiao_Chen.jpeg
+      team: true
+      social:
+    -
+      id: 4
+      name: "Xue-Ying"
+      surname: "Li"
+      title: "Social media"
+      location: "China"
+      thumbnailUrl: Xue-Ying.jpg
+      team: true
+      social:
+    -
+      id: 5
+      name: "Johanna"
+      surname: "Bayer"
+      title: "Social media"
+      location: "Melbourne, Australia"
+      thumbnailUrl: johanna_bayer.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/likeajumprope"}
+    -
+      id: 6
+      name: "Tom"
+      surname: "Shaw"
+      title: "Helpdesk"
+      location: "Brisbane, Australia"
+      thumbnailUrl: tom_shaw.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/thomcat992/"}
+        - {name: "github", link: "https://github.com/thomshaw992/"}
+    -
+      id: 7
+      name: "Steffen"
+      surname: "Bollmann"
+      title: "Helpdesk"
+      location: "Australia"
+      thumbnailUrl: steffen_bollmann.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
+        - {name: "github", link: "https://github.com/stebo85/"}
+
+    -
+      id: 8
+      name: "Chris"
+      surname: "Nolan"
+      title: "Helpdesk"
+      location: "Brisbane, Australia"
+      thumbnailUrl: chris_nolan.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/cnolanAU/"}
+        - {name: "github", link: "https://github.com/crnolan/"}
+    -
+      id: 9
+      name: "Megan"
+      surname: "Campbell"
+      title: "Social team"
+      location: "Newcastle, Australia"
+      thumbnailUrl: Megan_Campbell.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/megaej_campbell"}
+        - {name: "github", link: "https://github.com/meganEJcampbell/"}
+    -
+      id: 10
+      name: "Winnie"
+      surname: "Orchard"
+      title: "Social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Winnie_Orchard.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
+        - {name: "github", link: "https://github.com/WinnieOrchard/"}
+    -
+      id: 11
+      name: "Angela"
+      surname: "Renton"
+      title: "Teaching assistant"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Angela_Renton.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/angier2310/"}
+        - {name: "github", link: "https://github.com/air2310/"}
+    -
+      id: 12
+      name: "Tom"
+      surname: "Close"
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: tom_close.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/TomGClose/"}
+        - {name: "github", link: "https://github.com/tclose/"}
+    -
+      id: 13
+      name: "Sina"
+      surname: "Mansour L."
+      title: "Project review, Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Sina_Mansour.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
+        - {name: "github", link: "https://github.com/sina-mansour/"}
+    -
+      id: 14
+      name: "Aurina"
+      surname: "Arnatkeviciute"
+      title: "Traintrack instructor, Social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
+        - {name: "github", link: "https://github.com/AurinaBMH/"}
+    -
+      id: 15
+      name: "Steffen & Saskia"
+      surname: "Bollmann"
+      title: "Traintrack instructors"
+      location: "Brisbane, Australia"
+      thumbnailUrl: SteffenSaskia.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sbollmann_MRI/"}
+    -
+      id: 16
+      name: "Jinglei"
+      surname: "Lv"
+      title: "Project review"
+      location: "Sydney, Australia"
+      thumbnailUrl: Jinglei_Lv.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/JingleiLv/"}
+        - {name: "github", link: "https://github.com/Jinglei-Lv/"}
+    -
+      id: 17
+      name: "Johan"
+      surname: "van der Meer"
+      title: "Help desk"
+      location: "Brisbane, Australia"
+      thumbnailUrl: johan_vdmeer.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/jnvandermeer/"}
+        - {name: "github", link: "https://github.com/jnvandermeer/"}
+    -
+      id: 18
+      name: "Mac"
+      surname: "Shine"
+      title: "Project review"
+      location: "Sydney, Australia"
+      thumbnailUrl: mac_shine.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/jmacshine/"}
+        - {name: "github", link: "https://github.com/macshine/"}
+    -
+      id: 19
+      name: "Saampras"
+      surname: "Ganesan"
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Saampras_Ganesan.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/SaamprasG/"}
+        - {name: "github", link: "https://github.com/Saampras/"}
+    -
+      id: 20
+      name: "Kshipra"
+      surname: "Gurunandan"
+      title: "Helpdesk"
+      location: "Oakleigh East, Australia"
+      thumbnailUrl: Kshipra.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/KGurunandan/"}
+        - {name: "github", link: "https://github.com/kgurunandan/"}
+    -
+      id: 21
+      name: "Hsiao-ju (Rita)"
+      surname: "Cheng"
+      title: "Social media team"
+      location: "Singapore, Singapore"
+      thumbnailUrl: rita_cheng.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/hsiaojucheng/"}
+    -
+      id: 22
+      name: "Claire"
+      surname: "Bradley"
+      title: "Social team"
+      location: "Brisbane, Australia"
+      thumbnailUrl: claire_bradley.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/clairebradleyh/"}
+        - {name: "github", link: "https://github.com/cbradleyh/"}
+    -
+      id: 23
+      name: "Warda"
+      surname: "Syeda"
+      title: "Project review"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Warda_Syeda.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/wardataqdees/"}
+        - {name: "github", link: "https://github.com/wtsyeda/"}
+    -
+      id: 24
+      name: "Sidhant (Sid)"
+      surname: "Chopra"
+      title: "Project review"
+      location: "Melbourne, Australia"
+      thumbnailUrl: sid_chopra.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sidchop/"}
+        - {name: "github", link: "https://github.com/Sidchop/"}
+    -
+      id: 25
+      name: "Dragan"
+      surname: "Rangelov"
+      title: "Instructor - BIDS"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Dragan_Rangelov.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/neuromist/"}
+        - {name: "github", link: "https://github.com/draran/"}
+    -
+      id: 26
+      name: "FuTe"
+      surname: "Wong"
+      title: "Helpdesk"
+      location: "Taiwan"
+      thumbnailUrl: fute_wong.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/zuxfoucault"}
+        - {name: "github", link: "https://github.com/zuxfoucault"}
+    -
+      id: 27
+      name: "Morgan"
+      surname: "McIntyre"
+      title: "Teaching assistant"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Morgan_McIntyre.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Morg_anMcIntyre"}
+        - {name: "github", link: "https://github.com/morganmcintyre"}
+# -------------------------------------------------------------------------------------------------#
+#                                      HUB EUROPE MIDDLE-EAST AFRICA
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Hub Europe, Middle East & Africa"
+  description:
+  team:
+    -
+      id: 0
+      name: "Remi"
+      surname: "Gau"
+      title: "Brainhack co-host"
+      location: "Brussels, Belgium"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+        - {name: "github", link: "https://github.com/Remi-Gau"}
+    -
+      id: 1
+      name: "Melvin Selim"
+      surname: "Atay"
+      title: "Brainhack co-host"
+      location: "Turkey"
+      thumbnailUrl: selim_atay.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/i_am_mel_dev"}
+        - {name: "github", link: "https://github.com/i-am-mel-dev"}
+    -
+      id: 2
+      name: "Dorien"
+      surname: "Huijser"
+      title: "Web volunteer"
+      location: "The Netherlands"
+      thumbnailUrl: DorienHuijser.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/DorienHuijser"}
+        - {name: "github", link: "https://github.com/DorienHuijser"}
+    -
+      id: 3
+      name: "Adina"
+      surname: "Wagner"
+      title: "Traintrack instructor, Teaching assistant"
+      location: "Braunschweig, Germany"
+      thumbnailUrl: adina_wagner.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
+        - {name: "github", link: "https://github.com/adswa"}
+    -
+      id: 4
+      name: "Robert"
+      surname: "Oostenveld"
+      title: "Helpdesk"
+      location: "Nijmegen, the Netherlands"
+      thumbnailUrl: robert_oostenveld.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/oostenvr"}
+        - {name: "github", link: "https://github.com/robertoostenveld/"}
+    -
+      id: 6
+      name: "Benjamin"
+      surname: "Poldrack"
+      title: "Teaching assistant"
+      location: "Jülich, Germany"
+      thumbnailUrl: benjamin_poldrack.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
+        - {name: "github", link: "https://github.com/bpoldrack/"}
+    -
+      id: 7
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: "Hub manager, Project review"
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
+    -
+      id: 8
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: "Welcome desk, Helpdesk, Streaming" #Hackathon buddies
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
+    -
+      id: 9
+      name: "Matthias"
+      surname: "Nau"
+      title: "Social media team"
+      location: "Trondheim, Norway"
+      thumbnailUrl: matthias_nau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/NauMatt/"}
+        - {name: "github", link: "https://github.com/Naubody/"}
+    -
+      id: 10
+      name: "Camille"
+      surname: "Chatelle"
+      title: "Social media team"
+      location: "Louvain-La-Neuve/Brussels, Belgium"
+      thumbnailUrl: Camille_Chatelle.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Louvain_Bionics/"}
+        - {name: "github", link: "https://github.com/CamilleChatelle/"}
+    -
+      id: 11
+      name: "Y-Fang"
+      surname: "Yang"
+      title: "Social media team"
+      location: "Brussels, Belgium"
+      thumbnailUrl: Yu-Fang_Yang.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ufangyang/"}
+        - {name: "github", link: "https://github.com/ufangYang/"}
+    -
+      id: 12
+      name: "Nora"
+      surname: "Hagopian"
+      title: "Welcome desk"
+      location: "Amsterdam, The Netherlands"
+      thumbnailUrl: nora_hagopian.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/NoraHgpn/"}
+        - {name: "github", link: "https://github.com/Norahgpn/"}
+    -
+      id: 13
+      name: "Hao-Ting"
+      surname: "Wang"
+      title: "Teaching assistant"
+      location: "UK"
+      thumbnailUrl: hao_ting_wang.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/htwangtw"}
+        - {name: "twitter", link: "https://twitter.com/HaoTing713"}
+    -
+      id: 14
+      name: "Michael"
+      surname: "Joseph"
+      title: "Teaching assistant"
+      location: "Toronto, Canada"
+      thumbnailUrl: michael_joseph.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/josephmje/"}
+# -------------------------------------------------------------------------------------------------#
+#                                      HUB THE AMERICAS
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Hub Americas"
+  description:
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: "Brainhack co-host"
+      location: "Montreal, Canada"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+    -
+      id: 1
+      name: "Alejandro"
+      surname: "de la Vega"
+      title: "Hub manager"
+      location: "Austin, USA"
+      thumbnailUrl: alejandro_vega_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/elneurozorro"}
+        - {name: "github", link: "https://github.com/adelavega"}
+    -
+      id: 3
+      name: "Arshitha "
+      surname: "Basavaraj"
+      title: "Hub manager"
+      location: "Bethesda, USA"
+      thumbnailUrl: Arshitha_Basavaraj.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/arshitha94"}
+        - {name: "github", link: "https://github.com/Arshitha/"}
+    -
+      id: 4
+      name: "Sam"
+      surname: "Nastase"
+      title: "Traintrack instructor, Teaching assistant"
+      location: "Princeton, NJ, USA"
+      thumbnailUrl: sam_nastase.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/samnastase"}
+        - {name: "github", link: "https://github.com/snastase/"}
+    -
+      id: 5
+      name: "Agah"
+      surname: "Karakuzu"
+      title: "Traintrack instructor, Teaching assistant"
+      location: "Kayseri, Turkey"
+      thumbnailUrl: Agah_Karakuzu.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
+        - {name: "github", link: "https://github.com/agahkarakuzu/"}
+    -
+      id: 6
+      name: "Anastasia"
+      surname: "Brovkin"
+      title: "Social media"
+      location: "Hamburg, Germany"
+      thumbnailUrl: anastasia_brovkin.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sc1naps"}
+        - {name: "github", link: "https://github.com/4n4574514"}
+    -
+      id: 7
+      name: "Pradeep"
+      surname: "Reddy Raamana"
+      title: "Buddy"
+      location: "Toronto, Canada"
+      thumbnailUrl: pradeepreddyraamana.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/raamana_/"}
+        - {name: "github", link: "https://github.com/raamana/"}
+    -
+      id: 8
+      name: "Damion"
+      surname: "Demeter"
+      title: "Buddy, Helpdesk"
+      location: "Austin, USA"
+      thumbnailUrl: damion_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamdamion"}
+    -
+      id: 9
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      title: "Project review, Streaming"
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
+    -
+      id: 10
+      name: "Eric"
+      surname: "Earl"
+      title: "Helpdesk"
+      location: "Portland, USA"
+      thumbnailUrl: eric_earl.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ericearlohsu/"}
+        - {name: "github", link: "https://github.com/ericearl/"}
+    -
+      id: 11
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      title: "Project review, Helpdesk"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+    -
+      id: 12
+      name: "Eduardo"
+      surname: "Garza-Villarreal"
+      title: "Brainhack co-host"
+      location: "Queretaro, Mexico"
+      thumbnailUrl: Eduardo_Garza-Villarreal.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/egarzav/"}
+        - {name: "github", link: "https://github.com/egarza/"}
+    -
+      id: 13
+      name: "Kendra"
+      surname: "Oudyk"
+      title: "Traintrack instructor"
+      location: "Brantford, Canada"
+      thumbnailUrl: Kendra_Oudyk.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/koudyk_/"}
+        - {name: "github", link: "https://github.com/koudyk/"}
+    -
+      id: 14
+      name: "Kulpreet"
+      surname: "Cheema"
+      title: "Welcome desk"
+      location: "Edmonton, Canada"
+      thumbnailUrl: Kulpreet_Cheema.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/kulcheema/"}
+        - {name: "github", link: "https://github.com/kcheema1/"}
+    -
+      id: 15
+      name: "Yohan"
+      surname: "Yee"
+      title: "Helpdesk & welcome desk"
+      location: "Toronto, Canada"
+      thumbnailUrl: yohan_yee.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/therealyohanyee/"}
+        - {name: "github", link: "https://github.com/yohanyee/"}
+    -
+      id: 17
+      name: "Xihe"
+      surname: "Xie"
+      title: "Teaching assistant"
+      location: "New York City, USA"
+      thumbnailUrl: xihe_xie.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/axiezai/"}
+        - {name: "github", link: "https://github.com/axiezai/"}
+# -------------------------------------------------------------------------------------------------#
+# Cross-hub coordination team
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Cross-hub coordination team"
+  description:
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: " " # Traintrack, Hackathon buddies
+      location: "Montreal, Canada"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+    -
+      id: 2
+      name: "Remi"
+      surname: "Gau"
+      title: " " # Traintrack, Helpdesk
+      location: "Brussels, Belgium"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+        - {name: "github", link: "https://github.com/Remi-Gau"}
+    -
+      id: 3
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      title: " " # Hackathon buddies, Helpdesk, Project advisor
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
+    -
+      id: 4
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: " " # Hackathon buddies, Helpdesk, Project advisor
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
+    -
+      id: 5
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: "Welcome desk, Helpdesk, Streaming" #Hackathon buddies
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
+    -
+      id: 6
+      name: "Camille"
+      surname: "Maumet"
+      title: " " #Project advisor
+      location: "Rennes, France"
+      thumbnailUrl: camille_maumet.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/cmaumet"}
+        - {name: "github", link: "https://github.com/cmaumet"}
+    -
+      id: 7
+      name: "Johanna"
+      surname: "Bayer"
+      title: " " # Social media
+      location: "Melbourne, Australia"
+      thumbnailUrl: johanna_bayer.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/likeajumprope"}
+
+# -------------------------------------------------------------------------------------------------#
+# Brainhack
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Brainhack"
+  description: "The purpose of Brainhack is to bridge the data science and neuroscience research
+  communities to advance the progress of brain science research. Brainhack is a unique conference
+  that convenes researchers from across the globe and myriad disciplines to work together on innovative
+  projects related to neuroscience. Year after year, global Brainhack events have brought together
+  researchers to participate in open collaboration and regional Brainhack events keep the momentum
+  going throughout the year."
+  team:
+    -
+      id: 0
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
+    -
+      id: 1
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
+    -
+      id: 2
+      name: "Cameron"
+      surname: "Craddock"
+      location: " "
+      thumbnailUrl: cameron_400x400.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RCCraddock"}
+    -
+      id: 3
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
+    -
+      id: 4
+      name: "Peer"
+      surname: "Herholz"
+      location: "Montreal, Canada"
+      thumbnailUrl: peer_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/peerherholz"}
+    -
+      id: 5
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+    -
+      id: 6
+      name: "Damion"
+      surname: "Demeter"
+      location: "Austin, USA"
+      thumbnailUrl: damion_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamdamion"}

@@ -1,0 +1,23 @@
+-
+  id: 0
+  name: "Dmytro"
+  surname: "Danylyk"
+  company: "Lemberg Solutions Limited"
+  title: "Android Developer"
+  thumbnailUrl: DmytroDanylyk.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 1
+  name: "Vitaliy"
+  surname: "Zasadnyy"
+  company: "Nravo, GDG Lviv"
+  title: "Team Lead, Unity 3D Developer"
+  thumbnailUrl: VitaliyZasadnyy.jpg
+  social:
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
