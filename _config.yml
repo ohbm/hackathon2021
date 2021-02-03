@@ -45,13 +45,13 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/#about/", text: "About"}
- - {permalink: "/schedule", text: "Schedule"}
+ # - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/hacktrack", text: "HackTrack"}
  - {permalink: "/traintrack/", text: "TrainTrack"}
- - {permalink: "/logistics", text: "Logistics"}
+ # - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/coc", text: "CoC"}
- - {permalink: "/team", text: "Team"}
+ # - {permalink: "/team", text: "Team"}
  - {permalink: "/sponsors", text: "Sponsors"}
  - {permalink: "/contact", text: "Contact"}
  # - {permalink: "/venue", text: "Venue"}

@@ -58,8 +58,8 @@ collaboration, co-learning and inclusivity. We design those events so that every
 hour availability is not a requirement.
 </p>"}
 
-    - {question: "When is the 2020 OHBM Brainhack?", answer: "<p>
-The OHBM Brainhack will be happening from the 16th to the 18th of June, 2020.
+    - {question: "When is the 2021 OHBM Brainhack?", answer: "<p>
+The OHBM Brainhack will be happening from the 16th to the 18th of June, 2021.
 </p>"}
 
 
@@ -98,7 +98,7 @@ and country and we will send you a coupon code.
     - {question: "Is there a registration deadline for the OHBM Brainhack?", answer: "<p>There is none.
 </p>
 <p>
-The only limit is when we are 'full': we planned for a maximum of 160 attendees per hub.
+We may have limits in terms of maximum participants, but we will keep you updated.
 </p>"}
 
 
@@ -110,20 +110,20 @@ This year the OHBM Brainhack will be a fully virtual event.
 </p>"}
 
 
-    - {question: "How will the first ever virtual OHBM Brainhack be different? ", answer: "<p>
-The OHBM Open Science Special Interest Group (OS-SIG) wants to rise to the challenge we are all
-facing and create a decentralized online event to foster global engagement and collaboration across
-time zones and geographical boundaries. For 3 days, no matter where you are on the planet, there will
-be <strong>Traintrack</strong> sessions happening where you can learn new things and
-<strong>Hacktrack</strong> projects that you can join.
-</p>"}
+#    - {question: "How will the first ever virtual OHBM Brainhack be different? ", answer: "<p>
+#The OHBM Open Science Special Interest Group (OS-SIG) wants to rise to the challenge we are all
+#facing and create a decentralized online event to foster global engagement and collaboration across
+#time zones and geographical boundaries. For 3 days, no matter where you are on the planet, there will
+#be <strong>Traintrack</strong> sessions happening where you can learn new things and
+#<strong>Hacktrack</strong> projects that you can join.
+#</p>"}
 
 
-    - {question: "Why will there be several hubs?", answer: "<p>
-While anyone around the world can join an online event, it is very important for us that everyone
-can attend during typical working hours. The hubs are designed so that they all share the same
-schedule but run at different times.
-</p>"}
+#    - {question: "Why will there be several hubs?", answer: "<p>
+#While anyone around the world can join an online event, it is very important for us that everyone
+#can attend during typical working hours. The hubs are designed so that they all share the same
+#schedule but run at different times.
+#</p>"}
 
 
     - {question: "Who is running the OHBM Brainhack?", answer: "<p>
@@ -147,8 +147,8 @@ target='_blank'>mattermost discussion forum</a>
 </ul></p>
 
 <p>
-If you have specific questions, you can reach out to us at <a href='mailto:ossig2019@inria.fr'>
-ossig2019@inria.fr</a>.
+If you have specific questions, you can reach out to us at <a href='mailto:OHBMopenscience@gmail.com'>
+OHBMopenscience@gmail.com</a>.
 </p>"}
 
 
@@ -218,7 +218,7 @@ on the <a href='http://www.brainhack.org/index.html' target='_blank'>Brainhack g
 
     - {question: "How do I submit a project? ", answer: "<p>
 First please register to the Brainhack</a>.
-You can then submit a project <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.
+You can then submit a project <a href='https://github.com/ohbm/hackathon2021/issues/new/choose' target='_blank'>here</a>.
 We will ask you to provide some information about your project in order to advertise it and help
 onboarding new members.
 </p>
@@ -256,7 +256,7 @@ dataset will not turn into a bottleneck for participants.
 
     - {question: "How do I join and contribute to a project?", answer: "<p>
 In the weeks leading up to the Brainhack, project leaders will submit a description of their project.
-The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project'
+The projects will be listed on our <a href='https://github.com/ohbm/hackathon2021/labels/Hackathon%20project'
 target='_blank'>Github repository</a> and on the OHBM Brainhack website.
 </p>
 <p>
@@ -268,15 +268,15 @@ share your time: it is OK.
 </p>"}
 
 
-    - {question: "Is there a way to take part in a project that is not on my hub?",
-    answer: "<p>We really encourage people to try to participate during their normal sleep / wake cycle. <br>
-    But we also would to see the projects as a common pool where anyone can contribute where ever they are. <br>
-    If you already have an idea of the project you want to help with and it is not on your hub,
-    we suggest that you get in touch with the project leader: either in their mattermost channel or on the
-    issue on the <a href='https://github.com/ohbm/hackathon2020/issues?q=is%3Aissue+is%3Aopen+label%3A%22Hackathon+project%22'
-    target='_blank'>repository</a>. This can be a way for project leaders to see how to start coordinating things. <br>
-    If you arrange things now, you could find a way for you to be a co-leader for that project in your hub.
-</p>"}
+#    - {question: "Is there a way to take part in a project that is not on my hub?",
+#    answer: "<p>We really encourage people to try to participate during their normal sleep / wake cycle. <br>
+#    But we also would to see the projects as a common pool where anyone can contribute where ever they are. <br>
+#    If you already have an idea of the project you want to help with and it is not on your hub,
+#    we suggest that you get in touch with the project leader: either in their mattermost channel or on the
+#    issue on the <a href='https://github.com/ohbm/hackathon2020/issues?q=is%3Aissue+is%3Aopen+label%3A%22Hackathon+project%22'
+#    target='_blank'>repository</a>. This can be a way for project leaders to see how to start coordinating things. <br>
+#    If you arrange things now, you could find a way for you to be a co-leader for that project in your hub.
+#</p>"}
 
 
 
@@ -317,20 +317,20 @@ on this soon...
 </p>"}
 
 
-    - {question: "Is there any funding available to Brainhack attendees?", answer: "<p>
-Yes.
-</p>
-<p>
-The OS-SIG is providing 50 mini-grants worth 100 USD each to help hackathon attendees set up for
-online conferencing. Apply via the registration link.
-</p>
-<p>
-In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if
-the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send
-<a href='mailto:ossig2019@inria.fr'>email us</a> sharing some details about your situation.
-We will consider waving those fees as
-necessary.
-</p>"}
+#    - {question: "Is there any funding available to Brainhack attendees?", answer: "<p>
+#Yes.
+#</p>
+#<p>
+#The OS-SIG is providing 50 mini-grants worth 100 USD each to help hackathon attendees set up for
+#online conferencing. Apply via the registration link.
+#</p>
+#<p>
+#In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if
+#the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send
+#<a href='mailto:ossig2019@inria.fr'>email us</a> sharing some details about your situation.
+#We will consider waving those fees as
+#necessary.
+#</p>"}
 
 
     - {question: "What should I do if I encounter an action that violates the Code of Conduct?", answer: "<p>
@@ -339,37 +339,37 @@ the OHBM Code of Conduct</a>.
 </p>"}
 
 
-    - {question: "How can I watch the streaming of the online tutorials?", answer: "<p>
-OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the
-<a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ' target='_blank'>official
-Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available
-on our <a href='https://ohbm.github.io/hackathon2020/schedule/' target='_blank'>schedule webpage.</a>
-</p>"}
+#    - {question: "How can I watch the streaming of the online tutorials?", answer: "<p>
+#OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the
+#<a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ' target='_blank'>official
+#Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available
+#on our <a href='https://ohbm.github.io/hackathon2020/schedule/' target='_blank'>schedule webpage.</a>
+#</p>"}
 
 
-    - {question: "Can I watch the stream even if I am not registered?", answer: "<p>
-Yes.
-</p>
-<p>
-The broadcast of the talks will be available for all at zero-cost. Our attendees will have the
-extra possibility to interact with the speakers and participate in hackathon projects.
-</p>"}
+#    - {question: "Can I watch the stream even if I am not registered?", answer: "<p>
+#Yes.
+#</p>
+#<p>
+#The broadcast of the talks will be available for all at zero-cost. Our attendees will have the
+#extra possibility to interact with the speakers and participate in hackathon projects.
+#</p>"}
 
 
-    - {question: "What is the background picture on the OHBM Brainhack website landing page?", answer: "<p>
-This is Montreal where the OHBM brainhack should have happened. We decided to keep the picture:
-</p>
-<p>
-<ul>
-<li>Because it is pretty</li>
-<li>Because we got used to seeing this picture and it makes us feel at home</li>
-<li>Because Montreal is a great city and you should totally visit if / when you get the chance</li>
-</ul></p>"}
+#    - {question: "What is the background picture on the OHBM Brainhack website landing page?", answer: "<p>
+#This is Montreal where the OHBM brainhack should have happened. We decided to keep the picture:
+#</p>
+#<p>
+#<ul>
+#<li>Because it is pretty</li>
+#<li>Because we got used to seeing this picture and it makes us feel at home</li>
+#<li>Because Montreal is a great city and you should totally visit if / when you get the chance</li>
+#</ul></p>"}
 
 
     - {question: "What will my registration fee be used for?", answer: "<p>
 The OS-SIG will use the funds raised with hackathon registration fees to sustain its open science
-activities: this includes software for the hackathon and <a href='https://ohbm.github.io/osr2020/'>
+activities: this includes software for the hackathon and <a href='https://ohbm.github.io/OpenScienceRoom/'>
 the open-science room</a> but also hackathon & open-science room mini-grants
 to make participation easier, support speakers to record their talks...
 </p>"}
