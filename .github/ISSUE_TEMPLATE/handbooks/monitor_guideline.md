@@ -6,7 +6,7 @@ Project Monitor (PM) takes actions in different stages of the project executions
 
 Make sure that you
 - read and understood the roles and responsibilities of the PM as outlined in the [Project Monitor: role description](https://github.com/ohbm/hackathon2021/blob/main/.github/ISSUE_TEMPLATE/handbooks/monitor_role.md)
-- [Joined the team](https://github.com/ohbm/hackathon2021/blob/main/.github/ISSUE_TEMPLATE/handbooks/monitor_role.md##join-the-team)
+- [Joined the team](https://github.com/ohbm/hackathon2021/blob/main/.github/ISSUE_TEMPLATE/handbooks/monitor_role.md#join-the-team)
 
 ### Project Submission ###
 1. Select 2-5 projects to monitor during the submission process and the Brainhack.
