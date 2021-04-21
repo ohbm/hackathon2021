@@ -32,7 +32,8 @@ Thank you so much for willing to help. In order to sign up as a project monitor,
 - [ ] [registered for the Brainhack](https://www.humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=128&reginit=1&pageID=3978)
 - [ ] added you name to this sign up [list](<!-- TODO: create contributors list -->)
 - [ ] created your Mattermost account (if you do not have one already)
-- [ ] and enrolled in the [Project Monitor Channel](<!-- TODO: add channel -->) to convey further discussions
+- [ ] created your GitHub account (if you do not have one already)
+- [ ] and enrolled in the [Project Monitor GitHub team](https://github.com/orgs/ohbm/teams/hack2021-monitors) to convey further discussions
 <!--
 - [ ] Share some details about yourself in the PM Spreadsheet.
 -->
