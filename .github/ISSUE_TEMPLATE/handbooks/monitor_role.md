@@ -1,6 +1,6 @@
 # Project monitor: role description
 
-The [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/) will gather researchers throughout the world for an online hackathon June 16-18, organized around 3 hubs: 'Asia and Pacific', 'Africa, Middle East and Europe' and the 'Americas'.
+The [OHBM Brainhack 2021](https://ohbm.github.io/hackathon2021/) will gather researchers throughout the world for an online hackathon June 16-18, organized around 3 hubs: 'Asia and Pacific', 'Africa, Middle East and Europe' and the 'Americas'.
 
 **Project monitors** play an essential role in guiding project leads to comply with Brainhack project guidelines and set minimal documentation to make their project more welcoming to new members.
 

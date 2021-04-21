@@ -1,6 +1,6 @@
 # Host for the welcome desk: role description
 
-The [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/) will gather researchers throughout
+The [OHBM Brainhack 2021](https://ohbm.github.io/hackathon2021/) will gather researchers throughout
 the world for an online hackathon June 16-18, organized around 3 hubs: 'Asia and Pacific', 'Africa,
 Middle East and Europe' and the 'Americas'.
 

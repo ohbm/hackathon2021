@@ -1,8 +1,8 @@
-# OHBM Brainhack 2020 Project handbook
+# OHBM Brainhack 2021 Project handbook
 
 ## Project submission
 
-You can then submit a project [here](https://github.com/ohbm/hackathon2020/issues/new/choose).
+You can then submit a project [here](https://github.com/ohbm/hackathon2021/issues/new/choose).
 
 We will ask you to provide some information about your project in order to advertise it and help onboarding new members.
 
@@ -14,7 +14,7 @@ This handbook includes more information on each item.
 
 ### Timezone
 
-The OHBM Brainhack 2020 will run across 3 hubs and each hub will cover multiple timezones. We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example).
+The OHBM Brainhack 2021 will run across 3 hubs and each hub will cover multiple timezones. We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example).
 
 Here are a few examples:
 - Fairbanks UTC-8
@@ -219,7 +219,7 @@ During the project pitch session, we will tweet about yout project. Our default 
 Title
 Repo URL
 Project leader Twitter handle
-#OHBMHackathon #Brainhack #OHBM2020
+#OHBMHackathon #Brainhack #OHBM2021
 ```
 
 Please provide a twitter-sized summary of your project if you would like us to tweet that insteas of title.
@@ -231,12 +231,12 @@ and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet o
 also provide an image for your project.
 
 If you want you can then open a pull-request to add this code in the
-[`_data/projects.yml`](https://github.com/ohbm/hackathon2020/blob/master/_data/projects.yml)
+[`_data/projects.yml`](https://github.com/ohbm/hackathon2021/blob/master/_data/projects.yml)
 file. If you have no idea how to do this, don't worry: we are here
 to help.
 
 If you want to add an image to illustrate your project it should go in the
-[`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
+[`img/hackathon`](https://github.com/ohbm/hackathon2021/tree/master/img/hackathon) folder.
 If you don't have any image you can use `whatever.png`.
 
 
@@ -245,7 +245,7 @@ If you don't have any image you can use `whatever.png`.
    title: "PROJECT TITLE"
    image: IMAGE_FILENAME
    details: "PROJECT DESCRIPTION.
-   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/ISSUE_NUMBER>in this github issue</a>"
+   <br>More information <a href=https://github.com/ohbm/hackathon2021/issues/ISSUE_NUMBER>in this github issue</a>"
 ```
 
 ### Day 1: summary
@@ -272,5 +272,5 @@ What’s next?
 Twitter handles of the people involved
 URL to project repo
 Images
-#OHBMHackathon #Brainhack #OHBM2020
+#OHBMHackathon #Brainhack #OHBM2021
 ```
