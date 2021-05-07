@@ -1,8 +1,7 @@
 # Helpdesk member: role description
 
 The [OHBM Brainhack 2021](https://ohbm.github.io/hackathon2021/) will gather researchers throughout
-the world for an online hackathon June 16-18, organized around 3 hubs: 'Asia and Pacific', 'Africa,
- Middle East and Europe' and the 'Americas'.
+the world for an online hackathon June 16-18, organized around two main time slots (1AM-6AM UTC and 2PM-7PM UTC).
 
 ---
 
@@ -35,9 +34,3 @@ answers as needed
 
 #### Estimated time
 
-
-#### Join the team!
-
-Thank you so much for willing to help. In order to sign up as a Brainhack buddy, please make sure you have
-[registered for the Brainhack](https://www.humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=128&reginit=1&pageID=3978)
-add you name to this sign up [list](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack).

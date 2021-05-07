@@ -8,13 +8,13 @@ We will ask you to provide some information about your project in order to adver
 
 If you have any questions on the way of submitting your project, a dedicated project advisor will be here to guide you.
 
-In order to keep things to a manageable size, we hope to limit the number of projects to maximum 25 per hub. If the topic of your submitted project is close to another submission, your project advisor might recommend that you consider creating a joint project.
+In order to keep things to a manageable size, we hope to limit the number of projects to maximum 25 per time slot. If the topic of your submitted project is close to another submission, your project advisor might recommend that you consider creating a joint project.
 
 This handbook includes more information on each item.
 
 ### Timezone
 
-The OHBM Brainhack 2021 will run across 3 hubs and each hub will cover multiple timezones. We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example).
+The OHBM Brainhack 2021 will run across two main time slots (1AM-6AM UTC and 2PM-7PM UTC). We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example).
 
 Here are a few examples:
 - Fairbanks UTC-8
