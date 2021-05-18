@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
+[![Build Status](https://travis-ci.com/ohbm/hackathon2021.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2021)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -7,7 +7,7 @@
 
 The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Brainhack will be held on June 16-18 as online.
 
-![landing_image](img/landing_hackathon_2020.jpg)
+![landing_image](img/landing_hackathon_2021.jpg)
 
 ## What is a Brainhack?
 
@@ -21,6 +21,7 @@ The projects can be things the project leader is already working on, or a projec
 
 You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous Brainhacks :
 
+-   [OHBM 2020 hackathon](https://github.com/ohbm/hackathon2020/issues)
 -   [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
 -   [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
 -   [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
@@ -42,14 +43,14 @@ You do not need to be an OHBM member to register and the price of registration w
 
 ## For more information
 
-For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.github.io/hackathon2020), read our [FAQs](https://ohbm.github.io/hackathon2020/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
+For most recent updates please go to [OHBM Brainhack 2021 webpage](https://ohbm.github.io/hackathon2021), read our [FAQs](https://ohbm.github.io/hackathon2021/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
 
 ## How to update the website
 
 Most of the "easy" updates can be done in the following files. We have added templates to help with this.
 
--   **Updating projects**: check this [board](https://github.com/ohbm/hackathon2020/projects/4) to know which projects can be added to the website. Of the checked projects, paste the title and description in `_data/projects.yml`. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2020/hackathon/)
--   **Updating team**: place a picture of the new volunteer in the `img/team` folder. In `_data/volunteers.yml`, add their name and details using the template. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2020/team/)
+-   **Updating projects**: check this [board](https://github.com/ohbm/hackathon2021/projects/2) to know which projects can be added to the website. Of the checked projects, paste the title and description in `_data/projects.yml`. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2021/hackathon/)
+-   **Updating team**: place a picture of the new volunteer in the `img/team` folder. In `_data/volunteers.yml`, add their name and details using the template. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2021/team/)
 -   **Updating schedule**: change both `_data/schedule.yml` and `_data/sessions.yml`, possibly with differences across hubs.
 
 ### How to serve the website locally
@@ -72,6 +73,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/matteomancini"><img src="https://avatars.githubusercontent.com/u/29856041?v=4" width="100px;" alt=""/><br /><sub><b>Matteo Mancini</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2021/commits?author=matteomancini" title="Code">💻</a> <a href="#content-matteomancini" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2021/commits?author=matteomancini" title="Documentation">📖</a> <a href="#design-matteomancini" title="Design">🎨</a> <a href="#eventOrganizing-matteomancini" title="Event Organizing">📋</a> <a href="#ideas-matteomancini" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-matteomancini" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-tiborauer" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Amatteomancini" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-matteomancini" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/tiborauer"><img src="https://avatars.githubusercontent.com/u/4816041?v=4" width="100px;" alt=""/><br /><sub><b>Tibor Auer</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2021/commits?author=tiborauer" title="Code">💻</a> <a href="#content-tiborauer" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2021/commits?author=tiborauer" title="Documentation">📖</a> <a href="#design-tiborauer" title="Design">🎨</a> <a href="#eventOrganizing-tiborauer" title="Event Organizing">📋</a> <a href="#ideas-tiborauer" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-tiborauer" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-matteomancini" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Atiborauer" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-tiborauer" title="Project Management">📆</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+And even more thanks goes to the contributors of [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020) who put together the original website:
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
     <td align="center"><a href="https://github.com/llevitis"><img src="https://avatars3.githubusercontent.com/u/17363738?v=4" width="100px;" alt=""/><br /><sub><b>Liza Levitis</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Code">💻</a> <a href="#content-llevitis" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Documentation">📖</a> <a href="#design-llevitis" title="Design">🎨</a> <a href="#eventOrganizing-llevitis" title="Event Organizing">📋</a> <a href="#ideas-llevitis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-llevitis" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-llevitis" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Allevitis" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-llevitis" title="Project Management">📆</a></td>
     <td align="center"><a href="http://camillemaumet.com"><img src="https://avatars1.githubusercontent.com/u/5374264?v=4" width="100px;" alt=""/><br /><sub><b>Camille Maumet</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=cmaumet" title="Code">💻</a> <a href="#content-cmaumet" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=cmaumet" title="Documentation">📖</a> <a href="#design-cmaumet" title="Design">🎨</a> <a href="#eventOrganizing-cmaumet" title="Event Organizing">📋</a> <a href="#ideas-cmaumet" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-cmaumet" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-cmaumet" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Acmaumet" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-cmaumet" title="Project Management">📆</a></td>
     <td align="center"><a href="https://remi-gau.github.io/"><img src="https://avatars3.githubusercontent.com/u/6961185?v=4" width="100px;" alt=""/><br /><sub><b>Remi Gau</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=Remi-Gau" title="Code">💻</a> <a href="#content-Remi-Gau" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=Remi-Gau" title="Documentation">📖</a> <a href="#design-Remi-Gau" title="Design">🎨</a> <a href="#eventOrganizing-Remi-Gau" title="Event Organizing">📋</a> <a href="#ideas-Remi-Gau" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Remi-Gau" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-Remi-Gau" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3ARemi-Gau" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-Remi-Gau" title="Project Management">📆</a></td>
@@ -91,6 +108,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

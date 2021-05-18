@@ -80,18 +80,13 @@ regardless of your membership status.
     - {question: "How much is the registration to the OHBM Brainhack?", answer: "<p><ul>
 <li>Full Registration: $25 USD</li>
 <li>Reduced Registration (countries with lower middle income): $5 USD</li>
-<li>Free Registration (countries with lower income): $0 USD</li>
+<li>Free Registration (countries with low income or absence of funding): $0 USD</li>
 </ul></p>
 <p>
 If you reside and/or work in a country ranked 'lower middle' or 'low' on the
 <a href='https://www.humanbrainmapping.org/files/2020/List%20of%20Economies.pdf' target='_blank'>World Bank's country
-income list</a>, please <a href='mailto:ossig2019@inria.fr'>email us</a> with the name of your institution
-and country and we will send you a coupon code.
-</p>
-<p>
-If you reside and/or work in a country ranked 'lower middle' or 'low' on the World Bank's country
-income list, please <a href='mailto:ossig2019@inria.fr'>email us</a> with the name of your institution
-and country and we will send you a coupon code.
+income list</a>, or if you do not have funding available to cover the registration, you would be able to request a
+waiver during the registration.
 </p>"}
 
 
@@ -203,6 +198,7 @@ community are especially welcome.
 You can find some examples in this non exhaustive list:
 </p>
 <p><ul>
+<li><a href='https://github.com/ohbm/hackathon2020/issues' target='_blank'>ohbm hackathon 2018</a></li>
 <li><a href='https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>openMR 2020</a></li>
 <li><a href='https://github.com/ohbm/hackathon2019/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>ohbm hackathon 2019</a></li>
 <li><a href='https://github.com/ohbm/hackathon2018/wiki/Projects' target='_blank'>ohbm hackathon 2018</a></li>
