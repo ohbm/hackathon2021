@@ -32,7 +32,7 @@ You can find example of projects listed in the different [brainhack events](http
 
 Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack attendees set up for online conferencing. Apply via the registration link.
 
-In addition, the OS-SIG is committed to making the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
+In addition, the OS-SIG is committed to making the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ohbmopenscience@gmail.com sharing some details about your situation. We will consider waving those fees as necessary.
 
 ## Do I need to register for the OHBM conference to attend the OHBM Brainhack?
 
