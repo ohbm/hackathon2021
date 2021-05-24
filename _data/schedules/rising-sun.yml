@@ -1,0 +1,101 @@
+-
+  date: "2020-06-16"
+  tz: "Etc/UTC"
+  dateReadable: "June 16th, Day 1"
+  tracks:
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+        endTime: "02:00",
+    	sessionIds: [101]
+    }
+    - {
+        startTime: "02:00",
+        endTime: "03:00",
+        sessionIds: [102]
+    }
+    - {
+    	startTime: "03:00",
+    	endTime: "04:00",
+    	sessionIds: [103]
+    }
+    - {
+      startTime: "04:00",
+      endTime: "05:00",
+      sessionIds: [104,201]
+    }
+    - {
+      startTime: "05:00",
+      endTime: "06:00",
+      sessionIds: [301]
+    }
+
+-
+  date: "2020-06-17"
+  tz: "Etc/UTC"
+  dateReadable: "June 17th, Day 2"
+  tracks:
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+        endTime: "02:00",
+    	sessionIds: [302]
+    }
+    - {
+        startTime: "02:00",
+        endTime: "03:00",
+        sessionIds: [105,202]
+    }
+    - {
+    	startTime: "03:00",
+    	endTime: "04:00",
+    	sessionIds: [303]
+    }
+    - {
+      startTime: "04:00",
+      endTime: "05:00",
+      sessionIds: [105,203]
+    }
+    - {
+      startTime: "05:00",
+      endTime: "06:00",
+      sessionIds: [106]
+    }
+
+-
+  date: "2020-06-18"
+  tz: "Etc/UTC"
+  dateReadable: "June 18th, Day 3"
+  tracks:
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+        endTime: "02:00",
+    	sessionIds: [302]
+    }
+    - {
+        startTime: "02:00",
+        endTime: "03:00",
+        sessionIds: [105,204]
+    }
+    - {
+    	startTime: "03:00",
+    	endTime: "04:00",
+    	sessionIds: [105,205]
+    }
+    - {
+      startTime: "04:00",
+      endTime: "05:00",
+      sessionIds: [107]
+    }
+    - {
+      startTime: "05:00",
+      endTime: "06:00",
+      sessionIds: [107]
+    }
