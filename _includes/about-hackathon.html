@@ -1,9 +1,25 @@
 <!-- About Hackathon Section -->
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
             <h4>Coming soon!</h4>
+            <div style="text-align: justify;">
+                <h6>
+                    <br>The <b>HackTrack</b> is the official <b>fun side</b> of a <b>Brainhack</b> event, where people
+                    can work together on projects. What projects? Any kind! From
+                    <a href="https://github.com/ohbm/hackathon2020/issues/124" target="_blank">exploding brains</a> to
+                    <a href="https://github.com/ohbm/hackathon2020/issues/166" target="_blank">resource gathering</a> and
+                    <a href="https://github.com/ohbm/hackathon2020/issues/156" target="_blank">data sharing</a>!<br><br>
+
+                    Would you like to propose a project? Just open
+                    <a href="https://github.com/ohbm/hackathon2021/issues/new/choose" target="_blank">
+                        an issue on our GitHub repository</a> and fill
+                    the template, we will be in touch to help you get going! But be sure to
+                    <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4073" target="_blank">
+                        register</a> first!
+                </h6>
+            </div>
             {% for row in site.data.projects %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">

@@ -21,17 +21,31 @@
           <div class="about-cols">
 
             <div class="col-lg-4 col-lg-offset-1 about-text about-col">
-                <p>At the OHBM Brainhack members of the community gather to work collaboratively on common projects.<br>
-                  The event also features a TrainTrack in which tutorials on open science practices are provided.<br>
-                  Brainhacks differ from typical academic conference in that attendees can actively
-                  take part in the program and co-learn from each other. Thus, they will be actively
-                  trying to create something rather than passively attend. Although many brainhack
-                  projects might involve coding, it is not a "requirement and many projects can be
-                  done without coding skills.</p>
+                <p><b>What is OHBM?</b> OHBM is the Organization for Human Brain Mapping. A Society of scientists
+                    dedicated to mapping the brain using all neuroimaging technologies.<br>
+                    <b>What is Brainhack?</b> An event where people get together to learn about open science and to
+                    collaborate on projects they’re interested in - it can be on anything!<br><br>
+                    The OHBM Brainhack is a chance for anyone interested in brains to work collaboratively on common
+                    projects (during the hacktrack) and learn about new ideas and tools in open science
+                    (during the traintrack).<br><br>
+
+                    Brainhacks are not the typical academic conference. Here, attendees can actively
+                    take part in the program and learn from each other - sounds something you would like? You can
+                    become a part of the event as a volunteer filling
+                    <a href="https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMEJGRUszWlk3N1JBTDAwRkdCNDZYTzBOTS4u"
+                        target="_blank">this form</a>. Many Brainhack
+                    projects might involve coding, but it is not a requirement and you can contribute in most cases
+                    even without coding skills.<br><br>
+
+                    We look for <i>neuroimagers</i> of all modalities from all over the world at different career stages,
+                    and coming from all racial and gender backgrounds who are interested in working together with others
+                    to build an open science community. If you're new to the Brainhack community, please join us! If you
+                    belong to any minority groups we want to reiterate that we want you here and are excited to have you join us!
+                </p>
             </div>
 
             <div class="col-lg-3 about-col">
-              {% for button in site.heroButtons %}
+              {% for button in site.aboutButtons %}
                 <a  class="btn btn-primary btn-about"
                     href=" {% if button.permalink != null %}
                             {{ button.permalink | prepend: site.baseurl }}

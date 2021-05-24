@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ohbm/hackathon2021.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2021)
+[![Build Status](https://www.travis-ci.com/ohbm/hackathon2021.svg?branch=main)](https://www.travis-ci.com/ohbm/hackathon2021)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

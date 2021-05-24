@@ -68,8 +68,13 @@ hubStreamingInfo: ""
 typeoutTextValues: '"June 16-18th, 2021", "Virtual", ""'
 typeoutFallback: ""
 heroButtons:
-   - {link: "https://ohbm.github.io/hackathon2021/hacktrack/", text: "Join a project"}
-   - {link: "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMEJGRUszWlk3N1JBTDAwRkdCNDZYTzBOTS4u", text: "Want to help?"}
+   - {link: "#about", text: "What is it?"}
+   - {link: "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4073", text: "Register!"}
+
+aboutButtons:
+ - {link: "https://ohbm.github.io/hackathon2021/hacktrack/", text: "Peek at the projects!"}
+ - {link: "https://ohbm.github.io/hackathon2021/traintrack/", text: "What can I learn?"}
+ - {link: "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMEJGRUszWlk3N1JBTDAwRkdCNDZYTzBOTS4u", text: "Want to volunteer?"}
 
 
 
