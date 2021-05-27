@@ -51,7 +51,7 @@ navigationLinks:
  # - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/coc", text: "Conduct"}
- # - {permalink: "/team", text: "Team"}
+ - {permalink: "/team", text: "Team"}
  - {permalink: "/sponsors", text: "Sponsors"}
  - {permalink: "/contact", text: "Contact"}
  # - {permalink: "/venue", text: "Venue"}

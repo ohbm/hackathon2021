@@ -1,0 +1,95 @@
+- hub:
+  name: "Open Science SIG Fellows"
+  description:
+  team:
+    - id: 0
+      name: "Stephan"
+      surname: "Heunis"
+      title: "Reproducible workflows"
+      location: "FZ Jülich-INM7"
+      thumbnailUrl: stephan_heunis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/fmrwhy"}
+    - id: 1
+      name: "Marta"
+      surname: "Topor"
+      title: "Community building"
+      location: "University of Surrey"
+      thumbnailUrl: marta_topor.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/martatopor"}
+    - id: 2
+      name: "Martina G."
+      surname: "Vilas"
+      title: "Machine learning & Data visualization"
+      location: "Max Planck Institute"
+      thumbnailUrl: martina_vilas.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/martinagvilas"}
+    - id: 3
+      name: "Sina"
+      surname: "Mansour L."
+      title: "Machine learning & Data visualization"
+      location: "University of Melbourne"
+      thumbnailUrl: sina_mansour.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sina_mansour_l"}
+    - id: 4
+      name: "Jivesh"
+      surname: "Ramduny"
+      title: "Community building"
+      location: "Trinity College Dublin"
+      thumbnailUrl: jivesh_ramduny.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/JRamduny"}
+    - id: 5
+      name: "Han"
+      surname: "Zhang"
+      title: "Version control & Code testing"
+      location: "A*STAR Research"
+      thumbnailUrl: han_zhang.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/zhanghan0113"}
+    - id: 6
+      name: "Seyma"
+      surname: "Bayrak"
+      title: "Reproducible workflows"
+      location: "Max Planck Institute for Human Cognitive and Brain Sciences"
+      thumbnailUrl: seyma_bayrak.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/eymaBayrak13"}
+    - id: 7
+      name: "Eva"
+      surname: "Lancaster"
+      title: "Version control & Code testing"
+      location: "Virginia Commonwealth University"
+      thumbnailUrl: eva_lancaster.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/EvaELancaster"}
+    - id: 8
+      name: "Sid"
+      surname: "Chopra"
+      title: "Machine learning & Data visualization"
+      location: "Turner Institute for Brain and Mental Health"
+      thumbnailUrl: sid_chopra.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sidchop"}
+    - id: 9
+      name: "Sin"
+      surname: "Kim"
+      title: "Version control & Code testing"
+      location: "Korea Advanced Institute of Science & Technology"
+      thumbnailUrl: sin_kim.jpg
+      team: true
+      social:
+
+

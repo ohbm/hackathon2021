@@ -1,7 +1,7 @@
 <!-- Begin Volunteers List-->
 <section id="volunteers" class="volunteers">
 
-  {% for hub in site.data.volunteers %}
+  {% for hub in site.data.fellows %}
   <div class="content-wrapper">
 
     <div class="col-lg-8 col-lg-offset-2">
@@ -15,7 +15,7 @@
 
             <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
 
-                <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/team/2021/' | append: teamMember.thumbnailUrl }})">
+                <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/fellows/2021/' | append: teamMember.thumbnailUrl }})">
                     <div class="overlay solid-overlay"></div>
                     <figcaption>
 
