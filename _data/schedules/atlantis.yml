@@ -37,8 +37,8 @@
   tz: "Etc/UTC"
   dateReadable: "June 17th, Day 2"
   tracks:
-    - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
+    - {title: "TrainTrack", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "14:00",
@@ -71,8 +71,8 @@
   tz: "Etc/UTC"
   dateReadable: "June 18th, Day 3"
   tracks:
-    - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
+    - {title: "TrainTrack", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "14:00",
