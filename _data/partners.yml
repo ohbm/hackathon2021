@@ -2,11 +2,12 @@
   group: "General sponsors"
   elements:
     - {name: "OHBM", description: "Organization for Human Brain Mapping", link: "https://www.ohbmbrainmappingblog.com/", imageUrl: "ohbm_logo.jpeg"}
+    - {name: "QMENTA", description: "QMENTA", link: "https://www.qmenta.com", imageUrl: "qmenta_logo.svg"}
 #    - {name: "INCF", description: "International Neuroinformatics Coordinating Facility", link: "https://www.incf.org/", imageUrl: "incfLogo.jpeg"}
-#    - {name: "openNeuro", description: "openNeuro", link: "https://openneuro.org/", imageUrl: "OpenNeuro_Logo.png"}
-#    - {name: "CNeuromod", description: "Courtois Neuromod", link: "https://www.cneuromod.ca/", imageUrl: "cneuromod_logo.svg"}
-#    - {name: "CONP", description: "Canadian Open Neuroscience Platform", link: "https://conp.ca/", imageUrl: "conp.png"}
-#    - {name: "WIN", description: "Wellcome centre intergrative neuroimaging", link: "https://www.win.ox.ac.uk", imageUrl: "logo_WIN_clear.png"}
+    - {name: "OpenNeuro", description: "OpenNeuro", link: "https://openneuro.org/", imageUrl: "OpenNeuro_Logo.png"}
+    - {name: "CNeuromod", description: "Courtois Neuromod", link: "https://www.cneuromod.ca/", imageUrl: "cneuromod_logo.svg"}
+    - {name: "CONP", description: "Canadian Open Neuroscience Platform", link: "https://conp.ca/", imageUrl: "conp.png"}
+    - {name: "WIN", description: "Wellcome Centre for Intergrative Neuroimaging", link: "https://www.win.ox.ac.uk", imageUrl: "logo_WIN_clear.png"}
 #    - {name: "OHBM Australian chapter", description: "OHBM Australian chapter", link: "https://ohbmaustralia.wordpress.com/", imageUrl: "OHBM_australian_chapter.png"}
    # - {name: "QBIN", description: "QBIN", link: "https://www.rbiq-qbin.qc.ca/Accueil", imageUrl: "QBIN_logo.png"}
     # - {name: "Child mind institute", description: "Child mind institute", link: "https://childmind.org/", imageUrl: "child_mind_institute.png"}
