@@ -27,3 +27,16 @@
 #   details: "The three methods suggested above are just a starting point. If a group of participants wants to work
 #     on something else, this is of course possible. We have also prepare some data to use the methods above,
 #     but if you have your own data, please bring it with you and try to hack it with the methods presented."
+
+-
+  title: "Learn and Enhance BrainIAK Tutorials: From Basics to Advanced fMRI Analyses"
+  image: neurodesk.jpg
+  details: "Neuroimaging researchers require a diverse collection of bespoke command-line and graphical tools
+  to analyse data and answer research questions. Installing and maintaining a neuroimaging software setup is
+  challenging and often results in un-reproducible environments. Container technology, such as docker or singularity, enables the execution of software
+  on different operating systems and could aid in distributing scientific software. We are developing NeuroDesk, a
+  platform build on container technology for processing and analysing neuroimaging data with the aim to lower the
+  barrier of using various neuroimaging software in a reproducible environment, so that researchers spend less time on
+  setting up and maintaining an analysis environment.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/2>in this github issue</a>"
+  timeslot: "Rising sun"
