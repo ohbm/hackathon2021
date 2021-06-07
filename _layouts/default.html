@@ -29,11 +29,13 @@ layout: compress
     {% endif %} 
 
     {% if page.permalink contains '/schedule/' %}
-        {% include sessions-modals.html %} 
+        {% include sessions-modals.html %}
+        {% include hands-on-modals.html %}
     {% endif %}
 
     {% if page.permalink contains '/traintrack/' %}
-        {% include sessions-modals.html %} 
+        {% include sessions-modals.html %}
+        {% include hands-on-modals.html %}
     {% endif %}
 
     {% include analytics.html %}

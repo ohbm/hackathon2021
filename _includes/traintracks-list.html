@@ -1,6 +1,5 @@
 <section id="traintracks" class="traintracks">
     <div class="content-wrapper">
-        <h3>Coming soon!</h3>
             <div class="container" style="text-align: justify;">
                 <h6>
                     The <b>TrainTrack</b> is the <b>educational side</b> of a <b>Brainhack</b> event, and it is the
@@ -8,8 +7,8 @@
                     in open science.<br><br>
                     This year we want to make the TrainTrack a <i>multimodal</i> experience.
                     For many newcomers (but also oldcomers) looking for learning about the latest tools
-                    for <i>brainhacking</i>, we want to make this chance the perfect one to really dive in! We
-                    envision structuring the TrainTrack on three layers:<br><br>
+                    for <i>brainhacking</i>, we want to make this chance the perfect one to really dive in!<br>
+                    The TrainTrack is structured in three layers:<br><br>
                     <ul>
                         <li><b>pre-recorded lectures/tutorials</b>: to make the most of a virtual event, we want to maximize
                             interactivity; we believe that everyone can take advantage of any pre-recorded videos
@@ -23,34 +22,31 @@
                             linked to the <a href="https://ossig.netlify.app/awards/" target="_blank">Open Science
                                 SIG Fellows</a> initiative.</li>
                     </ul>
-                    <br>Stay tuned for more news!
+                    <br>
                 </h6>
             </div>
-        <!--
+
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
-                {% assign traintrack_essions = site.data.sessions | where: "type", "traintrack" %}
-                {% for session in traintrack_essions %}
+                {% assign hands_on = site.data.hands-on %}
+                {% for session in hands_on %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                         <div class="lily-head">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: session.thumbnailUrl }})">
+                            <figure class="waves-effect waves-block waves-light" style="background-color:{{ session.color }}">
                                 <figcaption>
                                     <h2 class="name">{{ session.title }}</h2>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="lily-bottom">
-                            {% for session_speaker in session.speakers %}
-                                {% assign speaker = site.data.speakers[session_speaker] %}
-                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                            {% endfor %}
+                            <h2 class="name"><b>Fellow</b>: {{ session.fellow_ta }}</h2>
+                            <h2 class="name"><b>Time slot</b>: {{ session.timeslot }}</h2>
                         </div>
                     </div>
                 </div>
                 {% endfor %}
             </div>
         </div>
-        -->
     </div>
 </section>

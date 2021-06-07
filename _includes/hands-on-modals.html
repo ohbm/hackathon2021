@@ -1,0 +1,143 @@
+<!-- Begin Sessions Modals -->
+<div class="modals" class="modals">
+	{% assign hands_on = site.data.hands-on %}
+	{% for session in hands_on %}
+		<div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<div class="close">
+							<svg class="icon icon-cross" viewBox="0 0 32 32">
+								<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+							</svg>
+							<div class="close-mask" data-dismiss="modal"></div>
+						</div>
+						<h4>{{ session.title }}</h4>
+
+						{% if session.language != null %}
+						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+						{% endif %}
+
+						{% if session.date != null %}
+						<span class="theme-metadata"><span class="caption">Dates: </span>{{ session.date }}</span>
+						{% endif %}
+
+						{% if session.time != null %}
+						<span class="theme-metadata"><span class="caption">Time: </span>{{ session.time }}</span>
+						{% endif %}
+
+						{% if session.links != null and session.links.youtube != null %}
+						<div class="theme-video embed-responsive embed-responsive-16by9">
+						    <iframe class="embed-responsive-item" src="{{ session.links.youtube }}"></iframe>
+						</div>
+						{% else %}
+						<div class="theme-image">
+							<figure class="waves-effect waves-block waves-light" style="height: 200px; background-image: url({{ site.baseurl | append: '/img/fellows/2021/' | append: session.thumbnailUrl }})"></figure>
+						</div>
+						{% endif %}
+
+						<p class="theme-description">{{ session.description }}</p>
+
+						<p class="theme-description">{{ session.long_description }}</p>
+
+						<div class="theme-description"><span class="caption">Goals:</span><br>
+							<ul>
+							{% for goal in session.goals %}
+								<li>{{ goal }}</li>
+							{% endfor %}
+							</ul>
+						</div>
+
+						{% if session.prerequisite != null %}
+						<span class="theme-metadata"><span class="caption">Prerequisites: </span>{{ session.prerequisite }}</span>
+						{% endif %}
+
+						{% if session.links != null and session.links.presentation != null %}
+						<div>
+							<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View slides</a>
+						</div>
+						{% endif %}
+
+						{% if session.links != null and session.links.code != null %}
+						<div>
+							<a class="theme-code" href="{{ session.links.code }}" title="Code" target="_blank">View code</a>
+						</div>
+						{% endif %}
+
+						{% if session.links != null and session.links.website != null %}
+						<div>
+							<a class="theme-code" href="{{ session.links.website }}" title="Code" target="_blank">Website</a>
+						</div>
+						{% endif %}
+						{% if session.links != null and session.links.competition != null %}
+						<div>
+							<a class="theme-code" href="{{ session.links.competition }}" title="Code" target="_blank">Brain Art Competition</a>
+						</div>
+						{% endif %}
+
+						<hr>
+						<div class="people-details">
+							{% for session_speaker in session.speakers %}
+								{% assign speaker = site.data.speakers[session_speaker] %}
+								<div class="row">
+									<div class="col-md-2 col-sm-2 col-xs-2">
+										<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: speaker.thumbnailUrl }})"></div>
+									</div>
+									<div class="col-md-10 col-sm-10 col-xs-10 details">
+										<p class="name">
+											{{ speaker.name }} {{ speaker.surname }}
+											<span class="position">{% if speaker.title %}{{ speaker.title }},{% endif %} {{ speaker.company }}</span>
+										</p>
+										<p class="about">{{ speaker.bio }}</p>
+										<ul class="social">
+											{% for social in speaker.social %}
+												<li>
+													<a href="{{ social["link"] }}" target="_blank">
+														<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+															<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+														</svg>
+													</a>
+												</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							{% endfor %}
+							{% if page.schedule != null and session.teaching_assistants[page.schedule].size > 0 %}
+								<hr />
+								<h5>Teaching Assistants</h5>
+								{% for session_ta in session.teaching_assistants[page.schedule] %}
+									{% assign ta = site.data.teaching_assistants[session_ta] %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2 col-xs-2">
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: ta.thumbnailUrl }})"></div>
+										</div>
+										<div class="col-md-10 col-sm-10 col-xs-10 details">
+											<p class="name">
+												{{ ta.name }} {{ ta.surname }}
+												<span class="position">{% if ta.title %}{{ ta.title }},{% endif %} {{ ta.company }}</span>
+												{% if ta.location %}<span class="position">{{ ta.location }}</span>{% endif %}
+											</p>
+											<ul class="social">
+												{% for social in ta.social %}
+													<li>
+														<a href="{{ social["link"] }}" target="_blank">
+															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+															</svg>
+														</a>
+													</li>
+												{% endfor %}
+											</ul>
+										</div>
+									</div>
+								{% endfor %}
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+</div>
+<!-- End Speakers Modals -->

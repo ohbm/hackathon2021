@@ -1,0 +1,251 @@
+-
+  id: 401
+  title: "Learn Git and Github by writing a Git guide on Github"
+  description: >
+    Github is a useful, flexible collaboration tool that can be used for a wide variety of projects, not just code.
+    In this session, we will practice using Github and review Git concepts at the same time by fixing an incomplete
+    Git guide on Github. You will take turns being contributors and maintainers. Bonus points if you go all out and
+    use Git to interact with Github to write about Git.
+  color: "#1F0055"
+  thumbnailUrl: sin_kim.jpg
+  prerequisite: >
+    The guide will be written in Markdown, a simple language for creating formatted text. While not required,
+    installing Git and using Git to interact with the repository is highly recommended.
+  goals: ["Contributors: know how to fork, revise, commit, and submit pull requests",
+          "Maintainers: know how to handle issues and review pull requests",
+          "Understand Git’s object model, structure and stages",
+          "basic Git commands"
+  ]
+  timeslot: "Rising Sun"
+  date: "17th and 18th of June"
+  time: "3AM-6AM UTC"
+  language: english
+  fellow_ta: "Sin Kim"
+-
+  id: 402
+  title: "Learn Git and Github by writing a Git guide on Github"
+  description: >
+    Github is a useful, flexible collaboration tool that can be used for a wide variety of projects, not just code.
+    In this session, we will practice using Github and review Git concepts at the same time by fixing an incomplete
+    Git guide on Github. You will take turns being contributors and maintainers. Bonus points if you go all out and
+    use Git to interact with Github to write about Git.
+  color: "#1F0055"
+  thumbnailUrl: eva_lancaster.png
+  prerequisite: >
+    The guide will be written in Markdown, a simple language for creating formatted text. While not required,
+    installing Git and using Git to interact with the repository is highly recommended.
+  goals: ["Contributors: know how to fork, revise, commit, and submit pull requests",
+          "Maintainers: know how to handle issues and review pull requests",
+          "Understand Git’s object model, structure and stages",
+          "basic Git commands"
+  ]
+  timeslot: "Atlantis"
+  date: "17th and 18th of June"
+  time: "4PM-7PM UTC"
+  language: english
+  fellow_ta: "Eva Lancaster"
+-
+  id: 403
+  title: "Code testing steps, tools, and tips"
+  description: >
+    No matter which language your programming depends on, bugs inevitably exist even for experienced coders. Simply
+    running the code to completion does not guarantee it has no bugs. This makes code testing very necessary and
+    important. In this session, we will go through key steps of code testing, potential tools, and some tips for
+    efficient debugging/programming. You will be assigned into small groups to practice on some scenarios by testing
+    Python code.
+  color: "#1F0055"
+  thumbnailUrl: han_zhang.jpg
+  prerequisite: >
+    Basic knowledge of Python and Jupyter Notebook is preferable but not necessary. The hands-on session will be on
+    Google Colaboratory (coding TensorFlow).
+  goals: ["Understand the key steps of code testing",
+           "Grab some tools that assist efficient coding (for different programming languages)",
+           "Debug the code that does NOT run to completion (for Python)",
+           "Debug the code that runs to completion (for Python)"
+  ]
+  timeslot: "Atlantis"
+  date: "17th and 18th of June"
+  time: "4PM-7PM UTC"
+  language: english
+  fellow_ta: "Han Zhang"
+-
+  id: 404
+  title: "'I’d like to reproduce your results…' and other tales in Reproducible Workflows"
+  description: >
+    Almost all researchers have data and analysis scripts that generate results in the form of figures. Yet, few other
+    researchers can use these exact data and scripts to generate the same figures, or to reproduce all results of the
+    study. In this session, we’ll take you on a journey of building reproducible workflows that help alleviate the
+    anxiety associated with receiving that dreaded email 'I’d like to reproduce your results...' We’ll start with
+    helping others run your code on their machines, and end up with a fully reproducible workflow running in the cloud,
+    with several pit stops in between.
+  color: "#4D6FE3"
+  thumbnailUrl: seyma_bayrak.jpg
+  prerequisite: >
+    This session assumes a basic skill level in Python programming, and not much more. Even if you don’t know how to
+    program at all, you will still be able to follow along (using prepared code notebooks running in the cloud) and
+    even learn some Python while you are at it!
+  goals: ["Set up a `requirements.txt` file that specifies package requirements so that someone else can install and run your code on a different machine",
+          "Specify and set up a virtual environment in which to install your package requirements",
+          "Share instructions via GitHub for running your code, including installing the requirements in a virtual environment",
+          "Transform your code into a Jupyter notebook in order to make use of its useful features for running code, describing the analyses, and displaying visualisations.",
+          "Set up the basics for allowing your code/notebook to run in the cloud with Binder, so that others do not have to install anything in order to run your code",
+          "Understand how containers can play a role in this context",
+          "Understand how data management with DataLad can improve your reproducible workflows."
+  ]
+  timeslot: "Rising Sun"
+  language: english
+  date: "16th and 18th of June"
+  time: "3AM-6AM UTC"
+  fellow_ta: "Şeyma Bayrak"
+-
+  id: 405
+  title: "'I’d like to reproduce your results…' and other tales in Reproducible Workflows"
+  description: >
+    Almost all researchers have data and analysis scripts that generate results in the form of figures. Yet, few other
+    researchers can use these exact data and scripts to generate the same figures, or to reproduce all results of the
+    study. In this session, we’ll take you on a journey of building reproducible workflows that help alleviate the
+    anxiety associated with receiving that dreaded email 'I’d like to reproduce your results...' We’ll start with
+    helping others run your code on their machines, and end up with a fully reproducible workflow running in the cloud,
+    with several pit stops in between.
+  color: "#4D6FE3"
+  thumbnailUrl: stephan_heunis.jpg
+  prerequisite: >
+    This session assumes a basic skill level in Python programming, and not much more. Even if you don’t know how to
+    program at all, you will still be able to follow along (using prepared code notebooks running in the cloud) and
+    even learn some Python while you are at it!
+  goals: ["Set up a `requirements.txt` file that specifies package requirements so that someone else can install and run your code on a different machine",
+          "Specify and set up a virtual environment in which to install your package requirements",
+          "Share instructions via GitHub for running your code, including installing the requirements in a virtual environment",
+          "Transform your code into a Jupyter notebook in order to make use of its useful features for running code, describing the analyses, and displaying visualisations.",
+          "Set up the basics for allowing your code/notebook to run in the cloud with Binder, so that others do not have to install anything in order to run your code",
+          "Understand how containers can play a role in this context",
+          "Understand how data management with DataLad can improve your reproducible workflows."
+  ]
+  timeslot: "Atlantis"
+  language: english
+  date: "16th and 18th of June"
+  time: "4PM-7PM UTC"
+  fellow_ta: "Stephane Heunis"
+-
+  id: 406
+  title: "Introduction to Neuroimaging Data Visualization in R"
+  description: >
+    This short interactive workshop will introduce the basics of visualizing neuroimaging data in R  and introduce you
+    to some of the packages available in R. First, we will cover the principles of reproducible and programmatic data
+    visualizations. We will then work though a R-Markdown notebook where you will learn how to load, view, and run
+    basic manipulations on Nifti images within R. We will also cover visualizing ROI- and vertex-level data, as well
+    as edge-level brain network visualizations.
+  color: "#AB2C00"
+  thumbnailUrl: sid_chopra.jpg
+  prerequisite: >
+    Expected prior knowledge: A understanding of basic R syntax. A undersanding of R Markdown syntax also be useful
+    would be useful, but not essential as we will breifly cover the basics. Here is a link to some lessons around R Markdown.
+  goals: ["Understand why reproducible and programmatic data visualizations are important for open science",
+          "Learn to load, view and run basic manipulation on structural and functional NIFTI images.",
+          "Be introduced to the tools available in R for visualizing ROI-, Vertex- and Edge-level neuroimaging data."
+  ]
+  timeslot: "Rising Sun"
+  language: english
+  date: "16th and 18th of June"
+  time: "3AM-6AM UTC"
+  fellow_ta: "Sid Chopra"
+- id: 407
+  title: "Machine learning and Data Visualization with Python"
+  description: >
+    In this session, we will delve into using the Python programming language to fit various machine learning models on
+    a sample neuroimaging dataset. We'll be using tools from numpy, pandas, and sklearn packages to read the input data,
+    modify it and extract informative knowledge using the machine learning models. Thereafter, we'll use the
+    visualization tools at our disposal to make sense of the fitted models. These visualizations can come in handy for
+    translating our findings into a clarified visualization that summarizes the conclusions in a figure. While an
+    elementary knowledge of the python programming language or familiarity with programming languages in general is
+    anticipated, you are not required to have any tools installed to attend this session. We'll conduct all of our
+    analysis on the cloud and in a simple step-by-step tutorial that can assist individuals who are new to programming.
+  color: "#AB2C00"
+  thumbnailUrl: sina_mansour.jpg
+  prerequisite: >
+    Expected prior knowledge: A understanding of basic R syntax. A undersanding of R Markdown syntax also be useful
+    would be useful, but not essential as we will breifly cover the basics. Here is a link to some lessons around R Markdown.
+  goals: ["The main goal of this session is to get acquainted with the publicly available python tools that can aid your
+   future scientific discoveries. Namely, we'll explore using different functions from commonly used python packages
+   (numpy, matplotlib, pandas, seaborn, nilearn). We'll explore how these tools can help us in extracting knowledge from
+    raw data using methods of machine learning and data visualization."
+  ]
+  timeslot: "Rising Sun"
+  language: english
+  date: "16th and 18th of June"
+  time: "3AM-6AM UTC"
+  fellow_ta: "Sina Mansour"
+- id: 408
+  title: "Introduction to Machine Learning and Data Visualisation with Python"
+  description: >
+    This short interactive session will show you how to use the scikit-learn Python package to perform basic machine
+    learning analysis. It will also cover how to visualize your results with the matplotlib and seaborn Python packages.
+  color: "#AB2C00"
+  thumbnailUrl: martina_vilas.jpg
+  prerequisite: >
+    None
+  goals: ["Learn how to load and prepare your data for machine learning analysis with scikit-learn.",
+          "Learn how to perform linear regression and classification analysis with scikit-learn.",
+          "Learn the concepts of regularization, cross-validation, parameter tuning, and how to implement them using scikit-learn.",
+          "Learn how to inspect and evaluate a machine learning model.",
+          "Learn how to plot your results with matplotlib and seaborn."
+  ]
+  timeslot: "Atlantis"
+  language: english
+  date: "16th and 18th of June"
+  time: "4PM-7AM UTC"
+  fellow_ta: "Martina Vilas"
+- id: 409
+  title: "Open Science = Collaborative Science. A Community Building Workshop"
+  description: >
+    The Community Building workshop will be led by Jivesh Ramduny (@JRamduny) and Marta Topor (@MartaTopor) to introduce
+    the importance of establishing an Open Science community with regards to the issues that surrounds the
+    reproducibility crisis in research. The workshop will allow participants at all career stages to brainstorm about
+    ideas that are fundamental to facilitate different community activities in addition to fostering an Open Science
+    culture in academia via short- and long-term credible and collaborative projects. The workshop will also provide a
+    practical section to allow participants to start planning their own community activities in an effort to help them
+    start an Open Science community at their institutions or within their networks.
+  color: "#532178"
+  thumbnailUrl: jivesh_ramduny.jpg
+  prerequisite: >
+    None
+  goals: ["Participants will learn about the barriers that impact reproducible and open science in research, and
+  potential solutions that are in place to address these issues through community interaction. Participants will
+  interact with the TAs and other attendees to share their experiences (if any) on Open Science and community projects.
+  They will also learn about the different types of community engagement activities and practical aspects that are
+  central to establishing or contributing to community projects.  Lastly, participants will be given a practical task:
+  to discuss and plan an Open Science Community Project as a group. They will have a chance to present their ideas and
+  receive feedback and advice from other attendees and the TAs."
+  ]
+  timeslot: "Rising Sun"
+  language: english
+  date: "16th and 17th of June"
+  time: "3AM-6AM UTC"
+  fellow_ta: "Jivesh Ramduny"
+- id: 410
+  title: "Open Science = Collaborative Science. A Community Building Workshop"
+  description: >
+    The Community Building workshop will be led by Jivesh Ramduny (@JRamduny) and Marta Topor (@MartaTopor) to introduce
+    the importance of establishing an Open Science community with regards to the issues that surrounds the
+    reproducibility crisis in research. The workshop will allow participants at all career stages to brainstorm about
+    ideas that are fundamental to facilitate different community activities in addition to fostering an Open Science
+    culture in academia via short- and long-term credible and collaborative projects. The workshop will also provide a
+    practical section to allow participants to start planning their own community activities in an effort to help them
+    start an Open Science community at their institutions or within their networks.
+  color: "#532178"
+  thumbnailUrl: marta_topor.jpg
+  prerequisite: >
+    None
+  goals: ["Participants will learn about the barriers that impact reproducible and open science in research, and
+  potential solutions that are in place to address these issues through community interaction. Participants will
+  interact with the TAs and other attendees to share their experiences (if any) on Open Science and community projects.
+  They will also learn about the different types of community engagement activities and practical aspects that are
+  central to establishing or contributing to community projects.  Lastly, participants will be given a practical task:
+  to discuss and plan an Open Science Community Project as a group. They will have a chance to present their ideas and
+  receive feedback and advice from other attendees and the TAs."
+  ]
+  timeslot: "Atlantis"
+  language: english
+  date: "16th and 17th of June"
+  time: "4PM-7PM UTC"
+  fellow_ta: "Marta Topor"
