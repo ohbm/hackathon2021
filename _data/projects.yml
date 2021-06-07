@@ -40,3 +40,33 @@
   setting up and maintaining an analysis environment.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/2>in this github issue</a>"
   timeslot: "Rising sun"
+-
+  title: "Brain QR Modem - A setup to stream MRI images unidirectionally to the cloud via QR code animations"
+  image: qrmodem.gif
+  details: "Have you ever been annoyed how hard it is to get brain data off the scanner? The fact that scanners usually
+  contain private information about patients and are thus embedded in maximally restrictive clinical cyber-security
+  environments, makes it quite complicated to get access to the data. Especially when visiting collaborative sites.
+  In this Hackathon project, we aim to develop a purely uni-directional (safe) data streaming “hack” to transfer MRI
+  data directly to the cloud by means dynamic QR codes. In the early days of the Internet, modems
+  (modulator-demodulator) were used to (i) convert digital information into audio streams, (ii) transfer them across
+  telephone lines, and (iii) convert them back into the digital domain. Here, we aim to do the same thing with pixel
+  data of MRI scans. However, instead of audio signal we will use machine-readable visual information: QR codes.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/4>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Flooding brains: Mesmerizing & relaxing volumetric brain animations"
+  image: flooding.gif
+  details: "After 🎆 exploding brains 🎆 in the last year's brainhack, now it is time for animations of a more relaxing
+  sort. I will be mainly using a few LayNii programs that I have been developing for high resolution imaging over the
+  last year (e.g. layers, columns) to generate mesmerizing brain animations. I will focus on using animal brains from
+  one of my favorite projects: https://braincatalogue.org/.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/5>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "BIDS Execution Specification"
+  image: squirrel.png
+  details: "An extension proposal that has been in the works for a while, and builds upon the original BIDS Apps paper,
+  this extension seeks to further standardize the execution specification for BIDS applications, including integration
+  with Boutiques.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/6>in this github issue</a>"
+  timeslot: "Atlantis"
