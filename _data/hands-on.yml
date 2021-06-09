@@ -132,14 +132,14 @@
   description: >
     This short interactive workshop will introduce the basics of visualizing neuroimaging data in R  and introduce you
     to some of the packages available in R. First, we will cover the principles of reproducible and programmatic data
-    visualizations. We will then work though a R-Markdown notebook where you will learn how to load, view, and run
-    basic manipulations on Nifti images within R. We will also cover visualizing ROI- and vertex-level data, as well
-    as edge-level brain network visualizations.
+    visualizations. We will then work through an R notebook where you will learn how to load, view, and run basic
+    manipulations on Nifti images within R. We will also cover visualizing ROI- and vertex-level data, as well as
+    edge-level brain network visualizations.
   color: "#AB2C00"
   thumbnailUrl: sid_chopra.jpg
   prerequisite: >
-    Expected prior knowledge: A understanding of basic R syntax. A undersanding of R Markdown syntax also be useful
-    would be useful, but not essential as we will breifly cover the basics. Here is a link to some lessons around R Markdown.
+    Expected prior knowledge: A understanding of basic R syntax. We will be using RStudio cloud, so please make sure
+    you have created a free account here: https://rstudio.cloud/
   goals: ["Understand why reproducible and programmatic data visualizations are important for open science",
           "Learn to load, view and run basic manipulation on structural and functional NIFTI images.",
           "Be introduced to the tools available in R for visualizing ROI-, Vertex- and Edge-level neuroimaging data."
