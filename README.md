@@ -63,6 +63,19 @@ From the directory where you have cloned this repository, run:
 ```
 bundle exec jekyll serve
 ```
+#### On Windows ###
+You need to adapt the gem configuration before rendering locally.
+
+1. Add the following lines to the Gemfile:
+```
+gem 'wdm', '>= 0.1.0'
+gem "webrick"
+```
+2. Update gems:
+```
+bundle update
+```
+**Important**: Do not PR the modified Gemfile and Gemfile.lock to the main repo!
 
 ## Contributors ✨
 
