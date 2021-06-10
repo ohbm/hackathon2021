@@ -159,5 +159,14 @@
       location: "Donostia, Spain"
       thumbnailUrl: stefano_moia.jpg
       team: true
+    - id: 7
+      name: "JC"
+      surname: "Noble"
+      title: "Brainhack Diversity Equity and Justice"
+      location: "Stockholm, Sweden"
+      thumbnailUrl: joyce_noble.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/JCMolBio/"}
 
 
