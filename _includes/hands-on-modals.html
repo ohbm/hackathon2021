@@ -52,6 +52,10 @@
 						<span class="theme-metadata"><span class="caption">Prerequisites: </span>{{ session.prerequisite }}</span>
 						{% endif %}
 
+						{% if session.prerecorded != null %}
+						<div class="theme-metadata"><a href="{{ session.prerecorded }}" target="_blank">Related pre-recorded video</a></div>
+						{% endif %}
+
 						{% if session.links != null and session.links.presentation != null %}
 						<div>
 							<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View slides</a>

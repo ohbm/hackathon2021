@@ -11,6 +11,7 @@
   prerequisite: >
     The guide will be written in Markdown, a simple language for creating formatted text. While not required,
     installing Git and using Git to interact with the repository is highly recommended.
+  prerecorded: "https://youtu.be/zh_WFv0uk7w"
   goals: ["Contributors: know how to fork, revise, commit, and submit pull requests",
           "Maintainers: know how to handle issues and review pull requests",
           "Understand Git’s object model, structure and stages",
@@ -34,6 +35,7 @@
   prerequisite: >
     The guide will be written in Markdown, a simple language for creating formatted text. While not required,
     installing Git and using Git to interact with the repository is highly recommended.
+  prerecorded: "https://youtu.be/zh_WFv0uk7w"
   goals: ["Contributors: know how to fork, revise, commit, and submit pull requests",
           "Maintainers: know how to handle issues and review pull requests",
           "Understand Git’s object model, structure and stages",
@@ -58,6 +60,7 @@
   prerequisite: >
     Basic knowledge of Python and Jupyter Notebook is preferable but not necessary. The hands-on session will be on
     Google Colaboratory (coding TensorFlow).
+  prerecorded: "https://youtu.be/gfPP2pQ8Rms"
   goals: ["Understand the key steps of code testing",
            "Grab some tools that assist efficient coding (for different programming languages)",
            "Debug the code that does NOT run to completion (for Python)",
@@ -84,6 +87,7 @@
     This session assumes a basic skill level in Python programming, and not much more. Even if you don’t know how to
     program at all, you will still be able to follow along (using prepared code notebooks running in the cloud) and
     even learn some Python while you are at it!
+  prerecorded: "https://youtu.be/tk2eZSrM8oA"
   goals: ["Set up a `requirements.txt` file that specifies package requirements so that someone else can install and run your code on a different machine",
           "Specify and set up a virtual environment in which to install your package requirements",
           "Share instructions via GitHub for running your code, including installing the requirements in a virtual environment",
@@ -113,6 +117,7 @@
     This session assumes a basic skill level in Python programming, and not much more. Even if you don’t know how to
     program at all, you will still be able to follow along (using prepared code notebooks running in the cloud) and
     even learn some Python while you are at it!
+  prerecorded: "https://youtu.be/tk2eZSrM8oA"
   goals: ["Set up a `requirements.txt` file that specifies package requirements so that someone else can install and run your code on a different machine",
           "Specify and set up a virtual environment in which to install your package requirements",
           "Share instructions via GitHub for running your code, including installing the requirements in a virtual environment",
@@ -165,6 +170,7 @@
   prerequisite: >
     Expected prior knowledge: A understanding of basic R syntax. A undersanding of R Markdown syntax also be useful
     would be useful, but not essential as we will breifly cover the basics. Here is a link to some lessons around R Markdown.
+  prerecorded: "https://youtu.be/pOAK6ynM11E"
   goals: ["The main goal of this session is to get acquainted with the publicly available python tools that can aid your
    future scientific discoveries. Namely, we'll explore using different functions from commonly used python packages
    (numpy, matplotlib, pandas, seaborn, nilearn). We'll explore how these tools can help us in extracting knowledge from
@@ -184,6 +190,7 @@
   thumbnailUrl: martina_vilas.jpg
   prerequisite: >
     None
+  prerecorded: "https://youtu.be/pOAK6ynM11E"
   goals: ["Learn how to load and prepare your data for machine learning analysis with scikit-learn.",
           "Learn how to perform linear regression and classification analysis with scikit-learn.",
           "Learn the concepts of regularization, cross-validation, parameter tuning, and how to implement them using scikit-learn.",
@@ -209,6 +216,7 @@
   thumbnailUrl: jivesh_ramduny.jpg
   prerequisite: >
     None
+  prerecorded: "https://youtu.be/3H0zQ6odOd0"
   goals: ["Participants will learn about the barriers that impact reproducible and open science in research, and
   potential solutions that are in place to address these issues through community interaction. Participants will
   interact with the TAs and other attendees to share their experiences (if any) on Open Science and community projects.
@@ -234,6 +242,7 @@
     start an Open Science community at their institutions or within their networks.
   color: "#532178"
   thumbnailUrl: marta_topor.jpg
+  prerecorded: "https://youtu.be/3H0zQ6odOd0"
   prerequisite: >
     None
   goals: ["Participants will learn about the barriers that impact reproducible and open science in research, and

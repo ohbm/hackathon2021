@@ -10,13 +10,14 @@
                     for <i>brainhacking</i>, we want to make this chance the perfect one to really dive in!<br>
                     The TrainTrack is structured in three layers:<br><br>
                     <ul>
-                        <li><b>pre-recorded lectures/tutorials</b>: to make the most of a virtual event, we want to maximize
+                        <li><a href="#prerecorded">pre-recorded lectures/tutorials</a>: to make the most of a virtual event, we want to maximize
                             interactivity; we believe that everyone can take advantage of any pre-recorded videos
                             and watch them whenever it is feasible, to spend the time during the hackathon
                             interacting with other participants;</li><br>
                         <li><b>live Q&A sessions</b>: it does not matter if a topic is new or already known,
-                            there is always something to learn when discussing with each other;</li><br>
-                        <li><b>hands-on sessions</b>: we believe that learning by doing is invaluable; that is why
+                            there is always something to learn when discussing with each other; check the
+                            <a href="../schedule">schedule</a> to see when they are going live!</li><br>
+                        <li><a href="#handson">hands-on sessions</a>: we believe that learning by doing is invaluable; that is why
                             this year we are organizing hands-on sessions, profoundly inspired from
                             <a href="https://www.neuromatchacademy.org" target="_blank">NeuroMatch Academy</a> and
                             linked to the <a href="https://ossig.netlify.app/awards/" target="_blank">Open Science
@@ -26,7 +27,29 @@
                 </h6>
             </div>
 
-        <div class="col-lg-10 col-lg-offset-1">
+        <div id="prerecorded" class="container">
+            <h3 style="margin-top:75px">Pre-recorded tutorials</h3>
+            <h6 style="text-align: justify;">We collected videos from many of the amazing virtual events from the past
+                year and put together a playlist to prepare for the hackathon! The videos cover six general topics:
+                version control; code testing; reproducible workflows; data visualization; machine learning;
+                community building.</h6><br>
+            <iframe width="600" height="400"
+                    src="https://www.youtube.com/embed/videoseries?list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+        </div>
+
+        <div id="handson" class="col-lg-10 col-lg-offset-1">
+            <h3 style="margin-top:75px">Hands-on sessions</h3>
+            <h6 style="text-align: justify;">Learn by doing always feels like something special - this is why this year
+                we put together a series of hands-on sessions. These sessions need small groups to allow everyone to
+                <em>get their hands dirty</em>, and since we have a limited number of fellows to lead them we are
+                collecting expression of interest to register - we will confirm the registration for every form
+                submitted. If you are interested in multiple topics, you can submit multiple forms, but take into
+                account that we will aim at giving the chance to participate to as more people as we can. You can find
+                the form <a href="https://forms.office.com/r/qysZYQgjHb" target="_blank">here</a>.
+            </h6><br>
             <div class="row text-left appear-animation-trigger">
                 {% assign hands_on = site.data.hands-on %}
                 {% for session in hands_on %}
