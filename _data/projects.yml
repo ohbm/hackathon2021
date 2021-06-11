@@ -70,3 +70,14 @@
   with Boutiques.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/6>in this github issue</a>"
   timeslot: "Atlantis"
+
+  title: "Phys2BIDScoin: Integrating BIDScoin and phys2bids for a user-friendly GUI based BIDS conversion of physiological files"
+  image: BIDScoin.png
+  details: "Phys2bids is a python3 toolkit meant to format physiological files in BIDS. BIDScoin is also a python3 toolkit 
+  that is meant to format MRI source files in BIDS. BIDScoin comes with a data discovery routine and a graphical interface 
+  to customize the formatting heuristics. The actual data discovery and formatting is done using plugins and the BIDScoin
+  framework itself is agnostic about the source modality. Phys2bids currently lacks data discovery functionality and 
+  BIDScoin lacks a formatting backend for physiological data. The goal of this project is to develop the plugin interface
+  between BIDScoin and phys2bids and hence combine their complementary functionality for both projects.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/12>in this github issue</a>"
+  timeslot: "Atlantis"
