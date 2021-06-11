@@ -70,6 +70,7 @@ typeoutFallback: ""
 heroButtons:
    - {link: "#about", text: "What is it?"}
    - {link: "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4073", text: "Register!"}
+   - {link: "https://github.com/ohbm/hackathon2021/issues/new/choose", text: "Submit your project!"}
 
 aboutButtons:
  - {link: "https://ohbm.github.io/hackathon2021/hacktrack/", text: "Peek at the projects!"}
