@@ -70,3 +70,33 @@
   with Boutiques.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/6>in this github issue</a>"
   timeslot: "Atlantis"
+-
+  title: "Phys2BIDScoin: Integrating BIDScoin and phys2bids for a user-friendly GUI based BIDS conversion of physiological files"
+  image: BIDScoin.png
+  details: "Phys2bids is a python3 toolkit meant to format physiological files in BIDS. BIDScoin is also a python3 toolkit 
+  that is meant to format MRI source files in BIDS. BIDScoin comes with a data discovery routine and a graphical interface 
+  to customize the formatting heuristics. The actual data discovery and formatting is done using plugins and the BIDScoin
+  framework itself is agnostic about the source modality. Phys2bids currently lacks data discovery functionality and 
+  BIDScoin lacks a formatting backend for physiological data. The goal of this project is to develop the plugin interface
+  between BIDScoin and phys2bids and hence combine their complementary functionality for both projects.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/12>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Physiological signal classification challenge"
+  image: physiopy.png
+  details: "Phys2bids is a python3 library to format physiological files in BIDS. One of the current development goals is 
+  to make phys2bids smarter by implementing an automatic signal classificator. Ideally, given a physiological signal as 
+  input, phys2bids should be able to determine the type of the signal (cardiac, respiratory …).<br><br>
+  To move forward, this project is structured as a challenge: we provide time-series data of 4 kinds of physiological 
+  signals (cardiac, respiratory_chest, O2 and CO2) and the goal will be to collaborate to find robust features that 
+  allow discerning between them.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/15>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Brainhack book: all the shenanigans"
+  image: brainhackbook.png
+  details: "Brainhack Jupyterbook is an growing resource originated from the conception of the 2021 Neuroview paper. 
+  Currently, the book contains companion material of the paper, but we are looking forward to hear what other content
+  the community want it to have. Join the discussion!<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/16>in this github issue</a>"
+  timeslot: "Atlantis+Rising sun"
