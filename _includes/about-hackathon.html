@@ -27,7 +27,7 @@
                 </div>
                 <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
-                    <h6> Time slot : {{ row.timeslot }}</h6>
+                    <h6> Time slot : <a href="{{ site.baseurl }}/schedule">{{ row.timeslot }}</a></h6>
                     <p>PROJECT DESCRIPTION</p>
                     <p>{{ row.details }}</p>
                 </div>
