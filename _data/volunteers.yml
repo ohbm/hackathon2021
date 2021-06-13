@@ -218,5 +218,26 @@
       social:
           - {name: "twitter", link: "https://twitter.com/RaimondoFede/"}
           - {name: "github", link: "https://github.com/fraimondo/"}
+    -
+      id: 11
+      name: "Avinash"
+      surname: "Kalyani"
+      title: "Brainhack host"
+      location: "Magdeburg, Germany"
+      thumbnailUrl: avinash_kalyani.jpg
+      team: true
+      social:
+          - {name: "twitter", link: "https://twitter.com/avinash_kalyani/"}
+    -
+      id: 12
+      name: "Surendra"
+      surname: "Maharjan"
+      title: "Brainhack host"
+      location: "Kathmandu, Nepal"
+      thumbnailUrl: surendra_maharjan.png
+      team: true
+      social:
+          - {name: "github", link: "https://github.com/surendra116083/"}
+
 
 
