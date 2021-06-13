@@ -18,7 +18,8 @@
   name: "Time slot: rising sun"
   description:
   team:
-    - id: 0
+    -
+      id: 0
       name: "Johanna"
       surname: "Bayer"
       title: "Social media"
@@ -59,13 +60,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
         - {name: "github", link: "https://github.com/sina-mansour/"}
-    - id: 4
+    -
+      id: 4
       name: "Chun-Hui"
       surname: "Li"
       title: "Q&A co-host"
       location: "Taipei, Taiwan"
       thumbnailUrl: chun-hui_li.jpg
       team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamscli/"}
+        - {name: "github", link: "https://github.com/iamsc/"}
+    -
+      id: 5
+      name: "Cooper"
+      surname: "Smouth"
+      title: "Q&A co-host"
+      location: "Brisbane, Australia"
+      thumbnailUrl: cooper_smout.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/coopsmout/"}
+        - {name: "github", link: "https://github.com/coopersmout/"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      Time slot: atlantis (2PM-7PM UTC)
@@ -152,14 +168,16 @@
       social:
         - {name: "twitter", link: "https://twitter.com/raamana_/"}
         - {name: "github", link: "https://github.com/raamana/"}
-    - id: 6
+    -
+      id: 6
       name: "Stefano"
       surname: "Moia"
       title: "Brainhack buddy"
       location: "Donostia, Spain"
       thumbnailUrl: stefano_moia.jpg
       team: true
-    - id: 7
+    -
+      id: 7
       name: "JC"
       surname: "Noble"
       title: "Brainhack Diversity Equity and Justice"
@@ -168,5 +186,37 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/JCMolBio/"}
+    -
+      id: 8
+      name: "Danielle"
+      surname: "Kurtin"
+      title: "Q&A co-host"
+      location: "UK"
+      thumbnailUrl: danielle_kurtin.jpg
+      team: true
+      social:
+          - {name: "twitter", link: "https://twitter.com/daniellekurtin/"}
+    -
+      id: 9
+      name: "Gisela"
+      surname: "Govaart"
+      title: "Q&A co-host"
+      location: "Leipzig, Germany"
+      thumbnailUrl: gisela_govaart.png
+      team: true
+      social:
+          - {name: "twitter", link: "https://twitter.com/GiselaGovaart/"}
+          - {name: "github", link: "https://github.com/GiselaGovaart/"}
+    -
+      id: 10
+      name: "Fede"
+      surname: "Raimondo"
+      title: "Q&A co-host"
+      location: "Belgium"
+      thumbnailUrl: fede_raimondo.jpg
+      team: true
+      social:
+          - {name: "twitter", link: "https://twitter.com/RaimondoFede/"}
+          - {name: "github", link: "https://github.com/fraimondo/"}
 
 
