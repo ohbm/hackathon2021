@@ -8,6 +8,7 @@
     - {name: "CNeuromod", description: "Courtois Neuromod", link: "https://www.cneuromod.ca/", imageUrl: "cneuromod_logo.svg"}
     - {name: "CONP", description: "Canadian Open Neuroscience Platform", link: "https://conp.ca/", imageUrl: "conp.png"}
     - {name: "WIN", description: "Wellcome Centre for Intergrative Neuroimaging", link: "https://www.win.ox.ac.uk", imageUrl: "logo_WIN_clear.png"}
+    - {name: "Brainhack Marburg", description: "Brainhack Marburg", link: "https://brainhack-marburg.github.io", imageUrl: "bhmarburg_logo.png"}
 #    - {name: "OHBM Australian chapter", description: "OHBM Australian chapter", link: "https://ohbmaustralia.wordpress.com/", imageUrl: "OHBM_australian_chapter.png"}
    # - {name: "QBIN", description: "QBIN", link: "https://www.rbiq-qbin.qc.ca/Accueil", imageUrl: "QBIN_logo.png"}
     # - {name: "Child mind institute", description: "Child mind institute", link: "https://childmind.org/", imageUrl: "child_mind_institute.png"}
