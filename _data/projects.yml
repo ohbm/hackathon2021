@@ -119,3 +119,13 @@
   to make it better in our (<a href=https://psyarxiv.com/myn7t>preprint</a>).<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/11>in this github issue</a>"
   timeslot: "Atlantis+Rising sun"
+-  
+  title: "The courtois-neuromod physiological data as a use-case for phys2bids"
+  image: cneuromod.svg
+  details: "Phys2bids provides a way to convert physiological recording files to bids format. This brainhack project acts
+  as user testing for the software by applying its workflow to a large-scale dataset. The Courtois Neuromod project is 
+  a longitudinal program which collects massive amounts of multimodal data (neuroimaging, peripheral physiologicals signal
+  and eye-tracking) with the same 6 subjects throughout different tasks. We want to apply the phys2bids workflow 
+  to the entire physiological signals (electrocardiographic, electrodermal, respiration and pulse) dataset.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/20>in this github issue</a>"
+  timeslot: "Atlantis"
