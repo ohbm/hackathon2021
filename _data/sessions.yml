@@ -37,90 +37,97 @@
 -
   id: 101
   type: hacktrack
-  title: "Intro talks: What's BrainHack / Sponsors / OS-SIG"
-  place: ""
-  description: ""
+  title: "Kick-start day 1!"
+  place: "Live stage"
+  description: "Kicking off the 2021 OHBM Brainhack."
 -
   id: 102
   type: hacktrack
-  title: "QMENTA Session"
-  place: ""
-  description: ""
+  title: "Battery-included Brainhack with QMENTA!"
+  place: "Live stage"
+  description: "A discussion of the QMENTA platform and how attendees can freely use their resources for their hackathon projects"
 -
   id: 103
   type: hacktrack
   title: "Project pitches"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "You can offer your project proposals for the hackathon here. Try to find others with interests that might work well with yours."
 -
   id: 104
   type: hacktrack
   title: "Project Q&A"
-  place: ""
-  description: ""
+  place: "GatherTown"
+  description: "Did anyone say GatherTown? :)"
 -
   id: 105
   type: hacktrack
   title: "(Brain)Hacking"
-  place: ""
-  description: ""
+  place: "Hacking Projects"
+  description: "It's time to hack stuff together!"
 -
   id: 106
   type: hacktrack
   title: "OpenMic Session for Projects!"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Hackathon attendees step up to the mic to discuss thoughts on their projects."
 -
   id: 107
   type: hacktrack
   title: "Project presentations"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Brainhack attendees present the results of their projects to the rest of the group."
 -
   id: 201
   type: traintrack
   title: "Live Q&A - Version Control & Code Testing"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Live Q&A on Version control best practices. Open to hackathon attendees that have registered for the event."
 -
   id: 202
   type: traintrack
   title: "Live Q&A - Reproducible Workflows"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Live Q&A on Reproducible Workflows practices. Open to hackathon attendees that have registered for the event."
 -
   id: 203
   type: traintrack
   title: "Live Q&A - Data Visualization & Machine Learning"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Live Q&A on Data visualization and Machine learning practices. Open to hackathon attendees that have registered for the event."
 -
   id: 204
   type: traintrack
   title: "Live Q&A - Community Building"
-  place: ""
-  description: ""
+  place: "Live stage"
+  description: "Live Q&A on Community Building. Open to hackathon attendees that have registered for the event."
 -
   id: 205
   type: traintrack
-  title: "BrainArt SIG Session"
-  place: ""
-  description: ""
+  title: "BrainArt Session"
+  place: "Live stage"
+  description: "Presentation and discussions of creating art with the brain. Led by the OHBM BrainArt SIG."
 -
   id: 301
   type: social
-  title: "Social event"
-  place: ""
-  description: ""
+  title: "Social"
+  place: "GatherTown"
+  description: "Did anyone say GatherTown? :)"
 -
   id: 302
   type: social
-  title: "Kick-start the day!"
-  place: ""
-  description: ""
+  title: "Kick-start day 2!"
+  place: "Live stage"
+  description: "Starting off the second day of the Brainhack - with NeuroMatch Academy! Come and see what they have been up to."
 -
   id: 303
   type: social
-  title: "OpenMic Session: Inclusivity & Diversity"
-  place: ""
-  description: ""
+  title: "Kick-start day 3!"
+  place: "Live stage"
+  description: "Starting off the final day of the Brainhack - with CNeuroMod! Come and see what they have been up to."
+
+-
+  id: 304
+  type: social
+  title: "Better Together"
+  place: "Live stage"
+  description: "Panel discussion & call for people to anonymously share their experiences within neurosciece related to academia or research environments."
