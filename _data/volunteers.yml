@@ -82,6 +82,25 @@
       social:
         - {name: "twitter", link: "https://twitter.com/coopsmout/"}
         - {name: "github", link: "https://github.com/coopersmout/"}
+    -
+      id: 6
+      name: "Ye"
+      surname: "Tian"
+      title: "Brainhack host"
+      location: "Melbourne, Australia"
+      thumbnailUrl: ye_tian.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/yetianmed/"}
+        - {name: "github", link: "https://github.com/yetianmed/"}
+    -
+      id: 7
+      name: "Jou-An"
+      surname: "Chung"
+      title: "Q&A co-host"
+      location: "Taipei"
+      thumbnailUrl: JouAn.jpg
+      team: true
 
 # -------------------------------------------------------------------------------------------------#
 #                                      Time slot: atlantis (2PM-7PM UTC)
@@ -238,6 +257,15 @@
       team: true
       social:
           - {name: "github", link: "https://github.com/surendra116083/"}
+    - id: 13
+      name: "Ishi"
+      surname: "Tandon"
+      title: "Brainhack host"
+      location: "India"
+      thumbnailUrl: ishi_tandon.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ishitandon18"}
 
 
 
