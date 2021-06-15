@@ -100,3 +100,32 @@
   the community want it to have. Join the discussion!<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/16>in this github issue</a>"
   timeslot: "Atlantis+Rising sun"
+-  
+  title: "Social gather.town for the hackathon and OSR"
+  image: gathertown.png
+  details: "We aim to decorate the open science gather.town room for the open science activities
+  and set up something fun for the OSR social.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/10>in this github issue</a>"
+  timeslot: "Atlantis+Rising sun"
+-  
+  title: "ARTEM-IS web app: working towards an Agreed Reporting Template for EEG Methodology (International Standard)"
+  image: ARTEM-IS.png
+  details: "The dense data streams and analytical flexibility of electroencephalography (EEG), result in a substantial
+  ‘Garden of Forking Paths’. Recent research (<a href=https://psyarxiv.com/jp6wy>Šoškić et al 2021</a>) shows that most research reports do not contain
+  sufficient detail in their methods to know which path has been taken, hampering reproducibility, replication and meta-science.
+  Our initiative to create an Agreed Reporting Template for an International Standard (<a href=https://doi.org/10.17605/OSF.IO/PDX6Y>ARTEM-IS</a>) includes
+  a draft template designed to make reporting EEG methodology easier and more accurate, by providing fields for researchers 
+  to input specific methodological details. Read more about why we need this tool and how you can help 
+  to make it better in our (<a href=https://psyarxiv.com/myn7t>preprint</a>).<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/11>in this github issue</a>"
+  timeslot: "Atlantis+Rising sun"
+-  
+  title: "The courtois-neuromod physiological data as a use-case for phys2bids"
+  image: cneuromod.svg
+  details: "Phys2bids provides a way to convert physiological recording files to bids format. This brainhack project acts
+  as user testing for the software by applying its workflow to a large-scale dataset. The Courtois Neuromod project is 
+  a longitudinal program which collects massive amounts of multimodal data (neuroimaging, peripheral physiologicals signal
+  and eye-tracking) with the same 6 subjects throughout different tasks. We want to apply the phys2bids workflow 
+  to the entire physiological signals (electrocardiographic, electrodermal, respiration and pulse) dataset.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/20>in this github issue</a>"
+  timeslot: "Atlantis"
