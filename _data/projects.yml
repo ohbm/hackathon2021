@@ -169,3 +169,21 @@
   metrics for 3D brain imaging data and providing a decision on the quality and usability of the data.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/22>in this github issue</a>"
   timeslot: "Atlantis"
+-
+  title: "Nobrainer: a python framework for neuroimaging data"
+  image: whatever.png
+  details: "Nobrainer is a deep learning toolbox for 3D neuroimaging data analysis. It includes implementation of 
+  many deep learning tools including data preprocessing pipelines, models structures, trained models, etc. 
+  In this hackathon project we are going to develop various aspects of this toolbox. This project has different parts
+  depending on your skills. It spans from data curation to adding new implementations to the toolbox.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/24>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Fuzzy libmath, transparently evaluating the numerical stability of your pipeline against the elementary mathematical functions (libm)"
+  image: fuzzylibmath.png
+  details: "Fuzzy libmath is evaluating the pipeline stability by applying noise to mathematical functions using
+  the library call interposition technique. This project aims to study whether the Monte Carlo Arithmetic method
+  is a truly good perturbation model for evaluating pipeline stability across the operating systems.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/25>in this github issue</a>"
+  timeslot: "Atlantis"
+
