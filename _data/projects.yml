@@ -226,3 +226,24 @@
   with diversity statements (relative to the expected gender proportions).<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/26>in this github issue</a>"
   timeslot: "Atlantis"
+-
+  title: "Opscientia: Open Science Data Wallet"
+  image: whatever.png
+  details: "The DataWallet is a dashboard connecting users to the decentralized web, and providing the option to validate
+  and upload BIDS-compliant neuroimaging data, along with relevant metadata (Authors, paper, description, etc.) 
+  to peer to peer storage (IPFS). Data provenance and versioning is done using datalad with a special remote for IPFS.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/31>in this github issue</a>"
+  timeslot: "Atlantis+Rising sun"
+-
+  title: "Opscientia: Decentralised Open Science Stack"
+  image: whatever.png
+  details: "Opscientia is a decentralised autonomous organisation (DAO) aiming to catalyse the pace of scientific discovery
+  — starting with Neuroscience. Today, progress is limited by centralised systems built on outdated infrastructure. 
+  This restricts global access to study participation, research funding, scientific collaboration and knowledge creation.
+  Participants also do not retain ownership or control over their own data. Our solution is a decentralised open science stack
+  leveraging blockchain technologies. Global citizens are empowered to take part in studies whilst retaining full ownership 
+  and control over their data, and scientists are incentivised to share data and collaborate with their peers. 
+  Our solution empowers both citizens and scientists to become the new shareholders of scientific progress.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/32>in this github issue</a>"
+  timeslot: "Atlantis"
+
