@@ -164,14 +164,14 @@
   timeslot: "Atlantis"
 -
   title: "Automated evaluation of quality metrics for brain data using deep learning"
-  image: whatever.png
+  image: auto-qc.png
   details: "The goal of this project is to create an automated deep-learning based pipeline for evaluation of quality
   metrics for 3D brain imaging data and providing a decision on the quality and usability of the data.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/22>in this github issue</a>"
   timeslot: "Atlantis"
 -
   title: "Nobrainer: a python framework for neuroimaging data"
-  image: whatever.png
+  image: nobrainer.png
   details: "Nobrainer is a deep learning toolbox for 3D neuroimaging data analysis. It includes implementation of 
   many deep learning tools including data preprocessing pipelines, models structures, trained models, etc. 
   In this hackathon project we are going to develop various aspects of this toolbox. This project has different parts
@@ -186,4 +186,43 @@
   is a truly good perturbation model for evaluating pipeline stability across the operating systems.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/25>in this github issue</a>"
   timeslot: "Atlantis"
-
+-
+  title: "Nipype 2.0: building new ecosystem around Pydra"
+  image: nipype.png
+  details: "We are creating Nipype 2.0 ecosystem around Pydra package.
+  Pydra is a new dataflow engine, coordinating the movement of data from the output of one computational node 
+  to the input of another node. A workflow is represented as a graph, and each node is a Task object, which may be
+  a Python function or an interface to an external tool.
+  <br><br>
+  During this hackathon we want to work on the core package, but also prepare converters for Nipype 1.0 interfaces.
+  We are also planning to improve documentation and tutorials.
+  <br><br>
+  Pyrda is a lightweight, Py3.7+ dataflow engine for computational graph construction, manipulation, 
+  and distributed execution.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/29>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Snakebids: Snakemake + BIDS"
+  image: whatever.png
+  details: "Snakemake (<a href=https://snakemake.github.io/>url</a>, <a href=https://f1000research.com/articles/10-33>paper</a>) is a fast-growing open source workflow management system that provides 
+  a high level of transparency, reproducibility and adaptability. Despite its wide adoption in the scientific community
+  (>5 new citations per week), Snakemake has not yet had significant uptake in the neuroimaging community.
+  <br><br>
+  We have been working on an extension, Snakebids, to ease working with neuroimaging (specifically BIDS) data,
+  and allow the creation of BIDS Apps with Snakemake (e.g. <a href=https://github.com/khanlab/hippunfold>https://github.com/khanlab/hippunfold</a>).<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/30>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "cleanBibImpact: Evaluating the impact of citation diversity statements"
+  image: cleanbibimpact.png
+  details: "Gender imbalance is a big problem in academic research, and it is even reflected in our citation behavior.
+  Our goal is to assess the 'impact' of the <a href=https://github.com/dalejn/cleanBib>cleanBib</a> tool, which was created to make researchers more aware of this problem. 
+  his tool can be used to assess the gender balance of authors in a reference list. Specifically, we want to find papers
+  that cite the cleanBib <a href=https://doi.org/10.5281/zenodo.3672109>code</a>/<a href=https://doi.org/10.1038/s41593-020-0658-y>paper</a>/<a href=https://doi.org/10.1101/2020.01.03.894378>preprint</a>, and see whether those citing papers have better gender balance 
+  n their reference lists than papers that do not.
+  <br><br>
+  In previous hackathons, we created this figure by manually collecting citation diversity data from papers with 
+  citation diversity statements. It shows the relative gender proportions in reference lists of papers 
+  with diversity statements (relative to the expected gender proportions).<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/26>in this github issue</a>"
+  timeslot: "Atlantis"
