@@ -203,7 +203,7 @@
   timeslot: "Atlantis"
 -
   title: "Snakebids: Snakemake + BIDS"
-  image: whatever.png
+  image: snakebids.png
   details: "Snakemake (<a href=https://snakemake.github.io/>url</a>, <a href=https://f1000research.com/articles/10-33>paper</a>) is a fast-growing open source workflow management system that provides 
   a high level of transparency, reproducibility and adaptability. Despite its wide adoption in the scientific community
   (>5 new citations per week), Snakemake has not yet had significant uptake in the neuroimaging community.
@@ -246,4 +246,10 @@
   Our solution empowers both citizens and scientists to become the new shareholders of scientific progress.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/32>in this github issue</a>"
   timeslot: "Atlantis"
-
+-
+  title: "Python library to handle confounds/covariates: focus on ComBat"
+  image: confounds.png
+  details: "Develop a python library of methods to handle confounds in various neuroscientific analyses, esp. statistics and
+  predictive modeling. More info and slides <a href=https://crossinvalidation.com/2020/03/04/conquering-confounds-and-covariates-in-machine-learning>here</a>.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/34>in this github issue</a>"
+  timeslot: "Atlantis"
