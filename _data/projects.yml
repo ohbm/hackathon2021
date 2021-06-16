@@ -228,7 +228,7 @@
   timeslot: "Atlantis"
 -
   title: "Opscientia: Open Science Data Wallet"
-  image: whatever.png
+  image: opscientia_datawallet.png
   details: "The DataWallet is a dashboard connecting users to the decentralized web, and providing the option to validate
   and upload BIDS-compliant neuroimaging data, along with relevant metadata (Authors, paper, description, etc.) 
   to peer to peer storage (IPFS). Data provenance and versioning is done using datalad with a special remote for IPFS.<br>
@@ -236,7 +236,7 @@
   timeslot: "Atlantis+Rising sun"
 -
   title: "Opscientia: Decentralised Open Science Stack"
-  image: whatever.png
+  image: opscientia.png
   details: "Opscientia is a decentralised autonomous organisation (DAO) aiming to catalyse the pace of scientific discovery
   — starting with Neuroscience. Today, progress is limited by centralised systems built on outdated infrastructure. 
   This restricts global access to study participation, research funding, scientific collaboration and knowledge creation.
@@ -252,4 +252,22 @@
   details: "Develop a python library of methods to handle confounds in various neuroscientific analyses, esp. statistics and
   predictive modeling. More info and slides <a href=https://crossinvalidation.com/2020/03/04/conquering-confounds-and-covariates-in-machine-learning>here</a>.<br>
   More information <a href=https://github.com/ohbm/hackathon2021/issues/34>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "CONP: Sharing data and tools"
+  image: conp.png
+  details: "The Canadian Open Neuroscience Platform (CONP) provides an infrastructure for the promotion of open-science workflows
+  and the sharing of neuroscience data. This platform brings together many of the country’s leading scientists in basic and 
+  clinical neuroscience to form an interactive network of collaborations in brain research, interdisciplinary student training,
+  international partnership, clinical translation, and open publishing. The CONP aims to propel Canada’s basic and clinical
+  neuroscience communities into a new era of commonly shared, digitally integrated, data- and algorithmic-rich neuroscience research.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/37>in this github issue</a>"
+  timeslot: "Atlantis"
+-
+  title: "Sea: A lightweight filesystem to process large neuroimaging data on HPC"
+  image: sea.png
+  details: "Large file transfers to and from slow storage can impede the processing of neuroimaging workflows processing such data.
+  Sea is a file system that aims to reduce the costs of such file transfers by leveraging compute-local storage whenever possible 
+  during pipeline execution to offset the overhead of reading and writing to local storage.<br>
+  More information <a href=https://github.com/ohbm/hackathon2021/issues/38>in this github issue</a>"
   timeslot: "Atlantis"
