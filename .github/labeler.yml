@@ -1,0 +1,184 @@
+# All the possible labels, except for "status" labels and repo mainteinance labels (e.g. "bug")
+
+# Git skills labels
+git_skills:0_none:
+    - '0_no_git_skills'
+git_skills:1_commit_push:
+    - '1_commit_push'
+git_skills:2_branches_PRs:
+    - '2_branches_PRs'
+git_skills:3_continuous_integration:
+    - '3_continuous_integration'
+# Modality labels
+behavioral:
+    - 'behavioral'
+DWI:
+    - 'DWI'
+ECG:
+    - 'ECG'
+ECOG:
+    - 'ECOG'
+EEG:
+    - 'EEG'
+eye_tracking:
+    - 'eye_tracking'
+fMRI:
+    - 'fMRI'
+fNIRS:
+    - 'fNIRS'
+MEG:
+    - 'MEG'
+MRI:
+    - 'MRI'
+PET:
+    - 'PET'
+TDCS:
+    - 'TDCS'
+TMS:
+    - 'TMS'
+# Programming labels
+C++:
+    - 'C\+\+'
+containerization:
+    - 'containerization'
+documentation:
+    - 'documentation'
+Java:
+    - 'Java'
+Javascript:
+    - 'Javascript'
+Julia:
+    - 'Julia'
+Matlab:
+    - 'Matlab'
+none:
+    - 'no_programming_involved'
+Python:
+    - 'Python'
+R:
+    - '`R`'
+shell_scripting:
+    - 'shell_scripting'
+Unix_command_line:
+    - 'unix_command_line'
+html_css:
+    - 'html_css'
+# Project development status labels
+project_development_status:0_concept_no_content:
+    - '0_concept_no_content'
+project_development_status:1_basic structure:
+    - '1_basic structure'
+project_development_status:2_releases_existing:
+    - '2_releases_existing'
+# Skill level labels
+project_tools_skills:comfortable:
+    - 'comfortable'
+project_tools_skills:expert:
+    - 'expert'
+project_tools_skills:familiar:
+    - 'familiar'
+project_tools_skills:none:
+    - 'no_skills_required'
+# Project type labels
+project_type:coding_methods:
+    - 'coding_methods'
+project_type:data_management:
+    - 'data_management'
+project_type:documentation:
+    - 'documentation'
+project_type:method_development:
+    - 'method_development'
+project_type:pipeline_development:
+    - 'pipeline_development'
+project_type:tutorial_recording:
+    - 'tutorial_recording'
+project_type:visualisation:
+    - 'visualisation'
+# Tool labels
+AFNI:
+    - 'AFNI'
+ANTs:
+    - 'ANTs'
+BIDS:
+    - 'BIDS'
+Brainstorm:
+    - 'Brainstorm'
+CPAC:
+    - 'CPAC'
+Datalad:
+    - 'Datalad'
+DIPY:
+    - 'DIPY'
+FieldTrip:
+    - 'FieldTrip'
+fMRIPrep:
+    - 'fMRIPrep'
+Freesurfer:
+    - 'Freesurfer'
+FSL:
+    - 'FSL'
+Jupyter:
+    - 'Jupyter'
+MNE:
+    - 'MNE'
+MRtrix:
+    - 'MRtrix'
+Nipype:
+    - 'Nipype'
+NWB:
+    - 'NWB'
+SPM:
+    - 'SPM'
+# Topic labels
+Bayesian_approaches:
+    - 'Bayesian_approaches'
+causality:
+    - 'causality'
+connectome:
+    - 'connectome'
+data_visualisation:
+    - 'data_visualisation'
+deep_learning:
+    - 'deep_learning'
+diffusion:
+    - 'diffusion'
+diversity_inclusivity_equality:
+    - 'diversity_inclusivity_equality'
+EEG_EventRelatedResponseModelling:
+    - 'EEG_EventRelatedResponseModelling'
+EEG_source_modelling:
+    - 'EEG_source_modelling'
+Granger_causality:
+    - 'Granger_causality'
+hypothesis_testing:
+    - 'hypothesis_testing'
+ICA:
+    - 'ICA'
+information_theory:
+    - 'information_theory'
+machine_learning:
+    - 'machine_learning'
+MR_methodologies:
+    - 'MR_methodologies'
+neural_decoding:
+    - 'neural_decoding'
+neural_encoding:
+    - 'neural_encoding'
+neural_networks:
+    - 'neural_networks'
+PCA:
+    - 'PCA'
+physiology:
+    - 'physiology'
+reinforcement_learning:
+    - 'reinforcement_learning'
+reproducible_scientific_methods:
+    - 'reproducible_scientific_methods'
+single_neuron_models:
+    - 'single_neuron_models'
+statistical_modelling:
+    - 'statistical_modelling'
+systems_neuroscience:
+    - 'systems_neuroscience'
+tractography:
+    - 'tractography'
